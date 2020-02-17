@@ -837,24 +837,26 @@ $(function() {
       var offset = $(window).scrollTop();
       var bottomPos = $(window).scrollTop() + $(window).height();
       console.log(document.location.href.match(/[^\/]+$/));
-      if (document.location.href.match(/[^\/]+$/)[0].split('#')[0] == 'supervisory-authorities') {
-        if (offset >= 0 && offset < 120) {
-          offset = 240 - $(window).scrollTop();
+      if(document.location.href.match(/[^\/]+$/) != null ) {
+        if (document.location.href.match(/[^\/]+$/)[0].split('#')[0] == 'supervisory-authorities') {
+          if (offset >= 0 && offset < 120) {
+            offset = 240 - $(window).scrollTop();
+          }
+          else if (bottomPos >= $('div[class="container my-5 text-center"]').position().top) {
+            //alert($(window).scrollTop() + '\n' +bottomPos);
+            offset = bottomPos - $('div[class="container my-5 text-center"]').position().top + 96;
+          }
+          else {
+            offset = 96;
+          }
         }
-        else if (bottomPos >= $('div[class="container my-5 text-center"]').position().top) {
-          //alert($(window).scrollTop() + '\n' +bottomPos);
-          offset = bottomPos - $('div[class="container my-5 text-center"]').position().top + 96;
-        }
-        else {
-          offset = 96;
-        }
-      }
 
-      if (document.location.href.match(/[^\/]+$/)[0].split('#')[0] == 'gdpr') {
-        if (bottomPos >= $('footer').position().top) {
-          offset = bottomPos - $('footer').position().top + 96 + $('div[class="py-5"]').outerHeight();
+        if (document.location.href.match(/[^\/]+$/)[0].split('#')[0] == 'gdpr') {
+          if (bottomPos >= $('footer').position().top) {
+            offset = bottomPos - $('footer').position().top + 96 + $('div[class="py-5"]').outerHeight();
+          }
+          else offset = 96;
         }
-        else offset = 96;
       }
 
       if (sidebarHeight != screenHeight - offset) sidebarHeight = (screenHeight - offset);
