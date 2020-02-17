@@ -836,7 +836,7 @@ $(function() {
       var screenHeight = $(window).outerHeight();
       var offset = $(window).scrollTop();
       var bottomPos = $(window).scrollTop() + $(window).height();
-      console.log(document.location.href.match(/[^\/]+$/));
+      console.log(document.location.href);
       if(document.location.href.match(/[^\/]+$/) != null ) {
         if (document.location.href.match(/[^\/]+$/)[0].split('#')[0] == 'supervisory-authorities') {
           if (offset >= 0 && offset < 120) {
