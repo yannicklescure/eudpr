@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Privacy Policy" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/privacy" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Privacy Policy">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/privacy" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1><i class="fas fa-user-secret"></i> Privacy Policy</h1>
+  <div class="small">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="legal">EUDPR &bull; Legal</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Privacy Policy</li>
+      </ol>
+    </nav>
+  </div>
+  <div class="pt-3">
+    <p class="lead text-muted">This privacy notice provides you with details of how we collect and process your personal data.</p>
+    <p><em>Disclaimer: The following translation is provided for your convenience only. Only the original French document of the respective Legal Mentions is legally binding. This applies to all of our legal documents.</em></p>
+    <h5>1. WHO WE ARE</h5>
+    <p>EUDPR are the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).</p>
+    <p>Our email address is: <a href="mailto:info@eudpr.com">info@eudpr.com</a></p>
+    <p>Our postal address is: 12 place d’Anvers, 75009 Paris.</p>
+    <p>It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at <a href="mailto:info@eudpr.com">info@eudpr.com</a>.</p>
+    <h5>2. THE DATA THAT WE COLLECT ABOUT YOU, THE PURPOSE FOR WHICH WE COLLECT IT AND THE GROUNDS UPON WHICH WE PROCESS IT</h5>
+    <p>Personal data means any information capable of identifying an individual. It does not include anonymised data.</p>
+    <p>We may process the following categories of personal data about you:</p>
+    <ul>
+      <li>Communication Data includes any communication that you send to us whether that be through any contact forms on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuit or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.</li>
+      <li>Personal Contact Data includes data such as your name, title, address, email address, phone number and contact details. We process this data to communicate with you, for record keeping and for the establishment, pursuit or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records, to grow our business and remain in contact with you and to establish, pursue or defend legal claims.</li>
+      <li>Transaction Data includes any data which you may provide to us in connection with services we provide, membership groups we operate, products we sell and events and programmes that we run. It also includes communication and other data generated in the course of the transaction. It also includes details about payments between us and other details of purchases made by you and any bank account and payment card details submitted by you. We process this data to supply our services and to deliver any products, events, programmes and membership groups that we provide. Our lawful grounds for processing this data are the performance of a contract to which you are party and our legitimate interest in running our business.</li>
+      <li>Job Applicant Data includes any data submitted to us by prospective job applicants. Our lawful grounds for the processing of this data is for the purpose of the legitimate interests of our firm in recruiting new staff. Please see the privacy notice in any particular job advertisement for further information about how we process applicant data in respect of the position advertised.</li>
+      <li>User Data that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back-ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.</li>
+      <li>Technical Data that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.</li>
+      <li>Marketing Data that includes data about your preferences in receiving marketing from us and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.</li>
+    </ul>
+    <p>We may use Communication Data, Personal Contact Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).</p>
+    <h6>Special Categories of Data</h6>
+    <p>We do not collect any Sensitive Data about you and you must not submit any to us via our website or otherwise. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences and you must not submit any such information to us via our website or otherwise.</p>
+    <p>We do not carry out automated decision making or any type of automated profiling.</p>
+    <h5>3. HOW WE COLLECT YOUR PERSONAL DATA</h5>
+    <p>We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails and correspondence by post or by speaking with us on the telephone and in meetings). We may collect data from third parties who you authorize us to obtain the data from on your behalf (for example a government agency, financial institution or another professional or adviser).</p>
+    <p>We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this.</p>
+    <p>We m ay collect data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.</p>
+    <p>We also collect data from publicly available sources.</p>
+    <h5>4. MARKETING COMMUNICATIONS</h5>
+    <p>Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).</p>
+    <p>Under the Privacy and Electronic Communications Regulations, we may send you electronic marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since.</p>
+    <p>We will not share your personal data with any third party for their own marketing purposes without your express consent.</p>
+    <p>You can request us to stop sending you electronic marketing messages at any time by following the opt-out links on any marketing message sent to you.</p>
+    <p>You can request us to stop sending you marketing message by post at any time emailing us at <a href="mailto:info@eudpr.com">info@eudpr.com</a>, by writing to us at 12 place d’Anvers, 75009 Paris, France.</p>
+    <p>If you opt out of receiving marketing communications this opt-out does not apply to personal data which we may require to perform any contract that we may have with you or which we are obliged to obtain a record of for the purposes of complying with our legal obligations.</p>
+    <h5>5. DISCLOSURES OF YOUR PERSONAL DATA</h5>
+    <p>We may have to share your personal data with the parties set out below:</p>
+    <ul>
+      <li>Service providers who provide IT and system administration services including cloud based services.</li>
+      <li>Service providers who provide business administration services, including third party dictation typing and transcription services and external file storage and archiving services.</li>
+      <li>Professional advisers including lawyers, accountants, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.</li>
+      <li>Risk management auditors and quality control companies.</li>
+      <li>The Revenue Commissioners, the Data Protection Commission, and other regulators and authorities based in Ireland and other relevant jurisdictions who require reporting of processing activities in certain circumstances.</li>
+      <li>Third parties to whom we sell, transfer, or merge parts of our business or our assets.</li>
+      <li>We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.</li>
+    </ul>
+    <h5>6. INTERNATIONAL TRANSFERS</h5>
+    <p>Countries outside of the European Economic Area (EEA) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.</p>
+    <p>Some of our third parties service providers are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.</p>
+    <p>Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is implemented:</p>
+    <ul>
+      <li>We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; or</li>
+      <li>Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or</li>
+      <li>Where we use providers based in the United States, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.</li>
+      <li>If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.</li>
+    </ul>
+    <p>Please email us at <a href="mailto:info@eudpr.com">info@eudpr.com</a> if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.</p>
+    <h5>7. DATA SECURITY</h5>
+    <p>We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know such data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.</p>
+    <p>We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.</p>
+    <h5>8. DATA RETENTION</h5>
+    <p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p>
+    <p>To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.</p>
+    <p>By law we have to keep data for six years after the conclusion of any tranasction in order to comply our regulatory and tax obligations. In addition in order to be in a position to establish, exercise and defend legal claims or prospective legal claims and obtain legal advice in relation thereto we have to keep data for seven and a half years after the conclusion of any matter.</p>
+    <p>Where you have requested information from us, attended a live or online event that we have held, participated in one of our groups or programmes, purchased a product or service from us or where we have done business with you we will retain your Personal Contact Data for these minimum periods and for as long as you wish us to remain in contact with you thereafter.</p>
+    <p>In some circumstances you can ask us to delete your data: see below for further information.</p>
+    <p>In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for business know-how, research or statistical purposes in which case we may use this information indefinitely without further notice to you.</p>
+    <h5>9. YOUR LEGAL RIGHTS</h5>
+    <p>Under certain circumstances, you have rights under data protection laws in relation to your personal data. These include the right to:</p>
+    <ul>
+      <li>Request access to your personal data.</li>
+      <li>Request correction of your personal data.</li>
+      <li>Request erasure of your personal data.</li>
+      <li>Object to processing of your personal data.</li>
+      <li>Request restriction of processing your personal data.</li>
+      <li>Request transfer of your personal data.</li>
+      <li>Right to withdraw consent.</li>
+      <li>You can see more about these rights at: <a href="https://www.cnil.fr" target="_blank">www.cnil.fr</a></li>
+    </ul>
+    <p>If you wish to exercise any of the rights set out above, please email us at <a href="mailto:info@eudpr.com">info@eudpr.com</a></p>
+    <p>You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.</p>
+    <p>We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.</p>
+    <p>We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.</p>
+    <p>If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Commission Nationale Informatique et Libertés (CNIL), the French supervisory authority for data protection issues (<a href="https://www.cnil.fr" target="_blank">www.cnil.fr</a></li>).</p>
+    <p>Please contact us first if you do have a complaint so that we can try to resolve it for you.</p>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "firstname" : "Rémy",
+  "lastname" : "Wilders",
+  "email" : "contact@eudpr.com",
+  "job" : "Président",
+  "companyName" : "EUDPR",
+  "companyWebsite" : "https://eudpr.com",
+  "street1" : "12 Place d'Anvers",
+  "street2" : "",
+  "country" : "France",
+  "city" : "Paris",
+  "zip" : "75009",
+  "companyType" : "Service Provider",
+  "companyEntityState" : "France",
+  "companyEntityType" : "SAS (Société par actions simplifiée)",
+  "companySize" : "Micro Enterprise",
+  "billingOption" : "",
+  "enquiry" : "",
+  "hostname" : "eudpr.com",
+  "ip" : ""
+}

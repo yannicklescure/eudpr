@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Micro Enterprise" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/micro" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Micro Enterprise">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/micro" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<!-- desktop -->
+<div id="section-start" class="container py-5 d-none d-md-block">
+  <div class="row py-5">
+    <div class="col">
+      <h1 class="text-capitalize">EUDPR, seamless GDPR</h1>
+      <p>The GDPR offers a new framework for data protection with increased obligations for organizations, and its reach is far and wide. The GDPR is applicable to any organization — <strong>no matter where it resides</strong> — that intentionally offers goods or services to the European Union, or that monitors the behavior of individuals within the EU.</p>
+      <a class="btn btn-outline-secondary btn-lg" href="signup">Open an account</a>
+    </div>
+    <div class="col">
+      <img src="images/image01.jpg" class="img-fluid" alt="Responsive image">
+    </div>
+  </div>
+</div>
+<!-- smartphone -->
+<div class="container d-md-none text-center">
+  <div class="row py-5">
+    <div class="col-12 mb-5">
+      <h1 class="text-capitalize">EUDPR makes GDPR seamless for you</h1>
+      <p>The GDPR offers a new framework for data protection with increased obligations for organizations, and its reach is far and wide. The GDPR is applicable to any organization — <strong>no matter where it resides</strong> — that intentionally offers goods or services to the European Union, or that monitors the behavior of individuals within the EU.</p>
+      <a class="btn btn-outline-secondary btn-lg" href="signup">Open an account</a>
+    </div>
+    <div class="col">
+      <img src="images/image01.jpg" class="img-fluid" alt="Responsive image">
+    </div>
+  </div>
+</div>
+
+<div class="container my-5">
+  <h1 class="display-5 mb-5 text-capitalize">Businesses should focus on what they do best</h1>
+  <ul class="list-group">
+    <h3 class="my-3">Your Company</h3>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-question mr-3 text-info"></i></div>
+        <div>Has up to 10 employees</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-question mr-3 text-info"></i></div>
+        <div>Made a revenue under &euro;2M in the last 12 months	</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-question mr-3 text-info"></i></div>
+        <div>Collects or manages personal data from EU residents</div>
+      </div>
+    </li>
+    <h3 class="my-3">Our professional plan includes</h3>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>Commitment Free</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>Processing of none sensitive data (No large scale processing of individuals in the EU)</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>Priority Email Support</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>GDPR Documents Includes
+          <ul class="list mt-3">
+            <li>Terms of Use template,</li>
+            <li>Privacy Policy template,</li>
+            <li>Cookies Policy template, and</li>
+            <li>Guidance Note for each template.</li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>1st GDPR Data Request Communications</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>Additional GDPR Data Request Communications (on demand)</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>GDPR Personal Review	(on demand)</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-check mr-3 text-success"></i></div>
+        <div>Hourly rate for GDPR Expert Consulting (on demand)</div>
+      </div>
+    </li>
+    <h3 class="my-3">Pricing</h3>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-arrow-right mr-3 text-info"></i></div>
+        <div>No hidden fees, no movement fees. It's all here.</div>
+      </div>
+    </li>
+    <li class="list-group-item border-0">
+      <div class="d-flex flex-row">
+        <div><i class="fas fa-arrow-right mr-3 text-info"></i></div>
+        <div class="mr-3">You decide to sign-up for monthly or annual billing plans for your company.
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<!-- desktop -->
+<div class="container py-5 d-none d-md-block">
+  <div class="row">
+    <div class="col">
+      <img src="images/image13.jpg" class="img-fluid" alt="Responsive image">
+    </div>
+    <div class="col">
+      <h1>GDPR Compliance and Article 27 Representatives in the EU</h1>
+      <p class="lead text-muted">EUDPR's professional account adapts to all types of companies, for any legal form or team size.</p>
+      <p>Article 27 of the General Data Protection Regulation <strong>requires that you appoint a representative in the EU</strong> as your point of contact for clients, customers and authorities regarding privacy matters.</p>
+      <p>The Data Protection Representative can be a company - it must be a legal person (which includes a company), however it doesn't have to be a natural person (an individual). If appointed by you, EUDPR becomes your Data Protection Representative in the EU, able to accept and manage communications on your behalf.</p>
+      <a class="btn btn-outline-secondary btn-lg" href="contact">Talk with our sales team</a>
+    </div>
+  </div>
+</div>
+<!-- smartphone -->
+<div class="container d-md-none text-center">
+  <h1>EUDPR makes GDPR seamless for you</h1>
+  <div class="row py-5">
+    <div class="col-12">
+      <img src="images/image13.jpg" class="img-fluid" alt="Responsive image">
+    </div>
+    <div class="col pt-5">
+      <h1>GDPR Compliance and Article 27 Representatives in the EU</h1>
+      <p class="lead text-muted">EUDPR's professional account adapts to all types of companies, for any legal form or team size.</p>
+      <p>Article 27 of the General Data Protection Regulation <strong>requires that you appoint a representative in the EU</strong> as your point of contact for clients, customers and authorities regarding privacy matters.</p>
+      <p>The Data Protection Representative can be a company - it must be a legal person (which includes a company), however it doesn't have to be a natural person (an individual). If appointed by you, EUDPR becomes your Data Protection Representative in the EU, able to accept and manage communications on your behalf.</p>
+      <a class="btn btn-outline-secondary btn-lg" href="contact">Talk with our sales team</a>
+    </div>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">Ready?</h1>
+    <p class="lead text-muted">Are you ready to open a professional account for your company? Whether you are a self-employed contractor or a large business, EUDPR is the professional account that you need!</p>
+    <div class="mt-5 d-none d-md-block">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="signup">Open an account</a>
+      <a class="btn btn-light btn-lg ml-2" href="contact">Talk with our sales team</a>
+    </div>
+    <div class="mt-5 d-md-none">
+      <a class="btn btn-outline-secondary btn-lg" href="signup">Open an account</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

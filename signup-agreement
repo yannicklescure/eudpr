@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Sign up" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/signup" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Sign up">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/signup-agreement" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kristi">
+  <style>
+    /*
+    https://fonts.google.com/specimen/Dawning+of+a+New+Day
+    https://developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url
+    */
+    #company-signature,
+    #designee-signature {
+      font-family: "Courier New", Courier, monospace;
+    }
+  </style>
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<style media="screen">
+
+  #section-start ol {
+    counter-reset: item
+  }
+  #section-start ol > li {
+    display: block
+  }
+  #section-start ol > li:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item
+  }
+
+</style>
+
+<div id="section-start" class="container my-5">
+  <div class="col-lg-8 mx-auto text-justify">
+    <h1 class="text-center mb-5">GDPR Article 27 Representative<br />Agreement</h1>
+    <div class="alert alert-info alert-dismissible fade show" role="alert">
+      After agreeing to the terms, you will receive by email a secured link to download the signed document.
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <p>This GDPR Article 27 Representative Agreement (this “Agreement”) is entered into by and between the “Company”, and the “Designee”, and together with the Company, the “Parties”, and each a “Party”.</p>
+    <table class="table text-left">
+      <thead>
+        <tr>
+          <th scope="col" style="width: 34%"></th>
+          <th scope="col" style="width: 33%">COMPANY</th>
+          <th scope="col" style="width: 33%">DESIGNEE</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Company name</th>
+          <td class="text-uppercase" id="company-company"></td>
+          <td class="text-uppercase" id="designee-company"></td>
+        </tr>
+        <tr>
+          <th scope="row">Name of natural person</th>
+          <td class="text-capitalize" id="company-fullname"></td>
+          <td class="text-capitalize" id="designee-fullname"></td>
+        </tr>
+        <tr>
+          <th scope="row">Position to act in accordance</th>
+          <td id="company-position"></td>
+          <td id="designee-position"></td>
+        </tr>
+        <tr>
+          <th scope="row">State of Business Registration</th>
+          <td class="text-capitalize" id="company-entity-state"></td>
+          <td class="text-capitalize" id="designee-entity-state"></td>
+        </tr>
+        <tr>
+          <th scope="row">Type of entity</th>
+          <td id="company-entity-type"></td>
+          <td id="designee-entity-type"></td>
+        </tr>
+        <tr>
+          <th scope="row">Address</th>
+          <td id="company-address"></td>
+          <td id="designee-address"></td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 class="my-4">RECITALS</h2>
+    <p><strong>WHEREAS</strong>, the Company and the Designee are partners in regards to the article 27 of GDPR EU reglementation; </p>
+    <p><strong>WHEREAS</strong>, the Company Processes certain Personal Data of Data Subjects in the European Union (the “EU”), as provided in Appendix 1 attached hereto and incorporated into this Agreement by reference; </p>
+    <p><strong>WHEREAS</strong>, the Designee is established in France, which is one of the Member States of the EU where Data Subjects, whose Personal Data the Company Processes are, or will be located; and</p>
+    <p><strong>WHEREAS</strong>, the Company desires to designate the Designee as a Representative of the Company in the European Union to act on its behalf with regard to its obligations under Article 27 of the GDPR and the Designee is willing to accept such designation in accordance with the terms and conditions set forth herein;</p>
+    <p><strong>NOW</strong>, <strong>THEREFORE</strong>, in consideration of the mutual covenants and agreements set forth herein, the Parties hereby agree as follows:</p>
+    <ol>
+      <li class="mt-3"><strong>Definitions</strong>. Capitalized words and phrases not defined herein shall have the same definitions as in the General Data Protection Regulation (2016/679) of the European Parliament and of the Council (the “GDPR”). Capitalized words, terms, or phrases that are not defined herein or in the GDPR shall be considered typographic errors, unless context or custom dictates otherwise.</li>
+      <li class="mt-3"><strong>Designation as Representative.</strong>
+        <ol>
+          <li class="mt-3">The Company hereby designates the Designee, and the Designee hereby accepts such designation, as the Representative for the Company pursuant to Article 27 of the GDPR.</li>
+          <li class="mt-3">The Designee agrees to be addressed, in addition to or instead of the Company, by Supervisory Authorities and Data Subjects, on all issues related to Processing by the Company, for the purposes of ensuring the Company’s compliance with the GDPR.</li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Responsibilities of the Designee</strong>. The Designee shall:
+        <ol>
+          <li class="mt-3">Receive, relay, and, after consultation with the Company, respond as directed by the Company to any communications from Supervisory Authorities or Data Subjects on all issues related to the Processing of Personal Data by the Company.</li>
+          <li class="mt-3">Immediately notify the Company using the most efficient method of notice available to it if it receives any communications from Data Subjects or Supervisory Authorities, as described in Section 3.1. In any case, such notification shall be provided to the Company no later than seventy-two (72) hours from the moment the communication is received by the Designee.</li>
+          <li class="mt-3">Fully and promptly cooperate with Supervisory Authorities, on the Company’s behalf, as directed by the Company, as necessary to enable the Company to comply with its obligations under the GDPR.</li>
+          <li class="mt-3">Make the Record available to Supervisory Authorities at their request.</li>
+          <li class="mt-3">Keep the contact details required for cooperation with the Data Subjects and Supervisory Authorities (the “Public Contact Information”), accurate and up-to-date at all times. Should the contact details change, the Designee will notify the Company without undue delay.</li>
+          <li class="mt-3">Appoint a natural person who will communicate with the Data Subjects and Supervisory Authorities in the official language of the country in which the Designee is established.</li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Designee’s Public Contact Information</strong>. The Designee’s Public Contact Information in the EU shall be as follows:
+        <p class="mt-3" id="designee-contact-information"></p>
+      </li>
+      <li class="mt-3"><strong>Obligations of the Company</strong>. The Company shall:
+        <ol>
+          <li class="mt-3">Provide all the information required under Section 5.1 to the Designee on or before the Effective Date of this Agreement and keep such information accurate and up-to-date at all times.</li>
+          <li class="mt-3">At all times, provide all the information necessary for the Designee to fulfill its obligations as provided under this Agreement.</li>
+          <li class="mt-3">Reimburse the Designee for all expenses incurred in carrying out its obligations and responsibilities under this Agreement.</li>
+          <li class="mt-3">Maintain a record of Processing activities as required pursuant to Article 30(1) or Article 30(2), as applicable (the “Record”). The Record shall contain all of the following information:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) the name and contact details of the Company, in its role as Controller, and, if applicable, the Joint Controller and the Controller’s Data Protection Officer;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) the purposes of the Processing;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(c) a description of the categories of Data Subjects and of the categories of Personal Data;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(d) the categories of recipients to whom the Personal Data have been or will be disclosed, including recipients in Third Countries or International Organisations;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(e) transfers of Personal Data to a Third Country or an International Organisation, including the identification of that Third Country or International Organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1) of the GDPR, the documentation of suitable safeguards;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(f) where possible, the envisaged time limits for erasure of the different categories of data; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(g) where possible, a general description of the technical and organisational security measures referred to in Article 32(1) of the GDPR.</p>
+          </li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Fees</strong>. In consideration of the Designee’s performance of its obligations hereunder, the Company agrees to pay the Designee the fees as described below:
+        <ul class="list-unstyled">
+          <li class="mt-3" style="padding-left: 2.5rem" id="fees-x"><span class="mr-2"><strong>&bull;</strong></span><span id="company-size"><span></li>
+        </ul>
+      </li>
+      <li class="mt-3"><strong>Notices</strong>. All notices, demands, or requests given by the Parties shall be transmitted by email to the address that the Parties have designated in this Section 7:
+        <ol>
+          <li class="mt-3">To the Company at <em><span id="company-email"></span></em></li>
+          <li class="mt-3">To the Designee at <em><span id="designee-email"></span></em></li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Term and Termination</strong>.
+        <ol>
+          <li class="mt-3">The term of this Agreement shall take effect on <span id="date1"></span> (the “Effective Date”) and shall continue until the Company resignation (the “Term”). </li>
+          <li class="mt-3">Thereafter, this Agreement shall be automatically renewed on an annual basis, unless one Party gives written notice of termination to the other Party not less than sixty (60) days prior to the termination of the then current term. This Agreement may also be terminated by either Party for cause. In the event one Party is in breach of its obligations hereunder, the non-breaching Party shall provide written notice of the breach and the breaching Party shall have thirty (30) days after receipt of the said notice to effect a cure. Failure to effect a cure within the thirty (30) day period, shall result in an immediate termination hereof.</li>
+          <li class="mt-3"><strong>Termination for Convenience</strong>. Either Party may terminate this Agreement for any reason, at any time, upon thirty (30) days’ prior written notice to the other Party.</li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Representations and Warranties; Disclaimer</strong>.
+        <ol>
+          <li class="mt-3">Each Party represents and warrants to the other Party that:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) it has all right, title, and authority to enter into this Agreement;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) its execution of this Agreement and its performance of its obligations hereunder do not constitute a breach of any contract, agreement, or understanding, oral or written, to which it is a Party or by which it is bound; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(c) it is not the subject of an allegation, of which it has been notified by any known authority in any country, including without limitation the Attorney General of any state or province, the United States Federal Trade Commission, any law enforcement agency or any foreign data protection authority, concerning the misuse of personal data.</p>
+          </li>
+          <li class="mt-3">The Designee further represents, warrants, and covenants to the Company that:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) the Designee is legally established in France; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) the Designee shall perform the responsibilities described in Section 3, in accordance with the terms of this Agreement, and applicable law, including but not limited to the GDPR and the laws of the EU Member State in which the Designee is established.</p>
+          </li>
+          <li class="mt-3">The Company further represents, warrants, and covenants to the Designee that it has all necessary right, title, and authority to designate the Designee as its Representative and to bestow upon it the mandates of this Agreement.</li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Indemnification</strong>.
+        <ol>
+          <li class="mt-3">Each Party agrees to defend, indemnify, and hold the other Party and its officers, directors, employees, agents, subsidiaries, and affiliates harmless from and against any and all claims, losses, liabilities, damages, judgments, awards, expenses, actions, lawsuits, and costs, including, without limitation, reasonable attorneys' fees, directly arising out of or relating to third-party claims based on either Party’s actual:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) grossly negligent acts or omissions, or fraud in connection with this Agreement; infringement of a third party's intellectual property rights; or</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) violation of any statute, law, ordinance, or regulation, resulting from the Company’s failure to comply with this Agreement; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(c) provided in each case that each Party complies with the indemnification procedures of Section ‎10.2 below.</p>
+            <p>The Parties agree that “gross negligence” is defined as conduct that is indicative of intentional wrongdoing or evinces a reckless indifference to the rights of others.</p>
+          </li>
+          <li class="mt-3"><strong>Indemnification Procedures</strong>. With respect to a Party's obligation to indemnify (the “Indemnifying Party”) the other Party (the “Indemnified Party”) shall:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) provide the Indemnifying Party with prompt written notice of any such claim, action, or demand for which indemnity is sought; </p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) allow the Indemnifying Party to control the defense and related settlement negotiations, provided, however, that the Indemnified Party shall have the right to participate in such defense with counsel of its own choosing at its own expense; </p>
+            <p class="mt-3" style="padding-left: 2.5rem">(c) provide the Indemnifying Party, at the Indemnifying Party's request, with reasonable assistance in the defense of such claim, action or demand, so long as the Indemnifying Party reimburses the Indemnified Party for the Indemnified Party's reasonable out-of-pocket expenses associated therewith; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(d) not settle a claim without the Indemnified Party's written consent, which consent shall not unreasonably be withheld. The Indemnifying Party shall not be relieved of its indemnification obligations herein for the Indemnified Party's failure to comply with such requirements, except to the extent that the Indemnifying Party has been prejudiced by the Indemnified Party's actions or inactions.</p>
+          </li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Limitation of Liability</strong>. EXCEPT FOR THE INDEMNIFICATION OBLIGATIONS OF THE PARTIES IN SECTION 10 AND THE BREACH OF CONFIDENTIALITY OBLIGATIONS OF THE PARTIES AS OUTLINED HEREIN, REGARDLESS OF THE LEGAL OR EQUITABLE THEORY ON WHICH CLAIMS ARE BROUGHT, WHETHER UNDER CONTRACT, NEGLIGENCE, STRICT LIABILITY, OR OTHER THEORY, EACH PARTY’S AGGREGATE LIABILITY WITH RESPECT TO ANY AND ALL CLAIMS ARISING IN CONNECTION WITH THIS AGREEMENT WILL BE LIMITED TO THE TOTAL AMOUNT OF ANY PRE-PAID FEES PAID BY THE COMPANY TO THE DESIGNEE UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE BREACH, VIOLATION, ACT, OR OMISSION GIVING RISE TO THE LIABILITY.</li>
+      <li class="mt-3"><strong>Receipt of Confidential Information</strong>.
+        <ol>
+          <li class="mt-3">Definition. In the course of performing duties under this Agreement, the Designee may obtain Confidential Information (as defined below) from the Company. “Confidential Information” means any and all technical and non-technical proprietary information provided by the Company to the Designee, whether disclosed orally or in writing, Personal Data, and includes all other information regarding:
+            <p class="mt-3" style="padding-left: 2.5rem">(a) the terms of this Agreement; and</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) any information which is marked or designated as confidential or proprietary at or prior to disclosure or which would appear to a reasonably prudent person to be confidential and/or proprietary in nature.</p>
+            <p>Confidential Information does not include information or data that the Designee can show by credible evidence:</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(a) was in the public domain at the time it was communicated to the Designee; </p>
+            <p class="mt-3" style="padding-left: 2.5rem">(b) entered the public domain subsequent to the time it was communicated to the Designee through no fault of the Designee;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(c) was in the Designee's possession, not in violation of any obligation of confidentiality, at the time it was communicated to the Designee;</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(d) was disclosed to the Designee not in any violation of any obligation of confidentiality; or</p>
+            <p class="mt-3" style="padding-left: 2.5rem">(e) was independently developed by the Designee without use of or reference to the Confidential Information of the Company.</p>
+          </li>
+          <li class="mt-3"><strong>Restrictions on Use and Disclosure</strong>. The Designee agrees to hold the Confidential Information of the Company in confidence, using the same degree (but no less than a reasonable degree) of care and protection that it uses to protect its own proprietary information, both during and after the Term of this Agreement. The Designee agrees not to use or disclose the Confidential Information for any purpose other than as necessary to fulfill its obligations or exercise its rights under this Agreement and agrees to take all reasonable steps to ensure that Confidential Information is not used, disclosed, or distributed by its employees or agents in violation of the terms of this Agreement. Notwithstanding anything contained herein to the contrary, the Designee may disclose Confidential Information pursuant to an order of a court of competent jurisdiction or as otherwise required by applicable law. Under such circumstances the Designee will, if reasonably possible under the circumstances, provide the Company with advance notice of such disclosure in order to afford the Company an opportunity to take legal action to prevent or limit the scope of such disclosure, and will cooperate with the Company in connection therewith.</li>
+          <li class="mt-3"><strong>Return or Destruction of Confidential Information</strong>. Upon termination of this Agreement or otherwise at the Company’s written request the Designee shall, at the Company’s option, either return to the Company or destroy all Confidential Information (including all copies thereof) in the Designee’s possession, custody and control.</li>
+        </ol>
+      </li>
+      <li class="mt-3"><strong>Miscellaneous</strong>.
+        <ol>
+          <li class="mt-3"><strong>Governing Law; Jurisdiction; Venue; Attorneys’ Fees</strong>. This Agreement shall be governed by and construed in accordance with the laws of France without regard to its conflict of laws rules. Each Party, acting for itself and its successors and assigns, hereby expressly and irrevocably consents to the exclusive jurisdiction of Paris City Courthouse, for the confirmation and enforcement of any arbitration award or for any litigation which may arise out of this Agreement. Both the Company and the Designee waive any objection based on forum non conveniens or any objection to venue of any such action. In any action to interpret or enforce this Agreement, the prevailing Party shall be entitled to seek an award of all court costs and reasonable attorneys’ fees it incurs.</li>
+          <li class="mt-3"><strong>Force Majeure</strong>. No Party shall be liable or responsible to the other Party, nor be deemed to have defaulted under or breached this Agreement, for any failure or delay in fulfilling or performing any term of this Agreement, when and to the extent such failure or delay is caused by or results from acts beyond the affected party’s reasonable control (“Force Majeure Event”), including, without limitation: (a) acts of God; (b) flood, fire, earthquake, or explosion; (c) war, invasion, hostilities (whether war is declared or not), terrorist threats or acts, riot, or other civil unrest; (d) government order or law, including the invalidation of any applicable regulation or data protection framework or mechanism; (e) actions, embargoes, or blockades in effect on or after the date of this Agreement; (f) action by any governmental authority; (g) national or regional emergency; (h) strikes, labor stoppages or slowdowns, or other industrial disturbances; and (i) shortage of adequate power or transportation facilities. The Party suffering a Force Majeure Event shall give notice as soon as reasonably possible to the other Party, stating the period of time the occurrence is expected to continue and shall use diligent efforts to end the failure or delay and ensure the effects of such Force Majeure Event are minimized.</li>
+          <li class="mt-3"><strong>No Waiver</strong>. Any waiver or the failure of either Party to this Agreement to object to or take affirmative action with respect to any conduct of the other which is in violation of the terms of this Agreement shall not be construed as a waiver of the violation breach, or of any future violation, breach or wrongful conduct.</li>
+          <li class="mt-3"><strong>Severability</strong>. It is intended by the Parties that all provisions of this Agreement be severable. If any term or provision hereof is illegal or invalid for any reason whatsoever, such illegality or invalidity shall not affect the validity or legality of the remainder of this Agreement, and any such unenforceable term or provision shall be modified to the minimum extent necessary to make the term or provision enforceable.</li>
+          <li class="mt-3"><strong>Amendment</strong>. Notwithstanding any provisions in any other agreement between the Parties regarding modifications or amendments, no modification of or amendment to this Agreement, nor any waiver of any rights under this Agreement, will be binding upon either Party, unless made in writing and signed by a duly authorized representative of each Party.</li>
+          <li class="mt-3"><strong>Survival</strong>. Sections 7, 8, 9, 10, 11, 12, 13.4 and this “Survival” provision and any other provisions that by their nature ought to survive this Agreement shall survive termination of this Agreement regardless of the manner in which this Agreement was terminated.</li>
+          <li class="mt-3"><strong>Assignment by the Company</strong>. The Company may assign its rights and obligations under this Agreement if the proposed assignee assumes all the obligations of the Company under this Agreement and the Designee is notified in writing thirty (30) days prior to such assignment.</li>
+          <li class="mt-3"><strong>Assignment by the Designee</strong>. In the case of a change of control of the Designee, the Designee may assign its rights and obligations under this Agreement to the entity that assumes control of the Designee, provided that: (a) the Company is notified in writing at least thirty (30) days prior to such assignment; and (b) the Company shall have a right to reasonably object to the proposed assignment. All other proposed assignments shall require the written consent of the Company.</li>
+          <li class="mt-3"><strong>Successors and Assigns</strong>. This Agreement shall be binding upon and shall inure to the benefit of the Parties hereto and their respective successors and permitted assigns.</li>
+          <li class="mt-3"><strong>Entire Agreement; Waiver; No Third-Party Beneficiaries</strong>. This Agreement and the appendices hereto constitute the entire agreement between the Parties as to the subject matter hereof, and supersede all prior and contemporaneous agreements, representations and understandings between them relating thereto, except as may be expressly incorporated by reference into this Agreement. No waiver of any provision of this Agreement shall be deemed, or shall constitute, a waiver of any other provision, nor shall any waiver constitute a continuing waiver. No waiver shall be binding unless executed in writing by the Parties. Except as expressly provided for herein, this Agreement is not for the benefit of any third party.</li>
+          <li class="mt-3"><strong>Counterparts</strong>. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this Agreement delivered by facsimile, email, or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this Agreement.</li>
+        </ol>
+      </li>
+    </ol>
+    <p class="mt-5">IN WITNESS WHEREOF, the Parties have hereunto set their hands as of the dates indicate below.</p>
+    <table class="table text-left">
+      <thead>
+        <tr>
+          <th scope="col" style="width: 34%"></th>
+          <th scope="col" style="width: 33%">COMPANY</th>
+          <th scope="col" style="width: 33%">DESIGNEE</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="align-middle" scope="row">Signature</th>
+          <td class="text-capitalize" id="company-signature"></td>
+          <td class="d-none" id="signature-result"><div class="signature-result"></div></td>
+          <td class="text-capitalize" id="designee-signature"></td>
+        </tr>
+        <tr>
+          <th scope="row">Name of natural person</th>
+          <td class="text-capitalize" id="company-fullname2"></td>
+          <td  id="designee-fullname"></td>
+        </tr>
+        <tr>
+          <th scope="row">Position to act in accordance</th>
+          <td id="company-position2"></td>
+          <td id="designee-position"></td>
+        </tr>
+        <tr>
+          <th scope="row">Company name</th>
+          <td class="text-uppercase" id="company-company2"></td>
+          <td id="designee-company"></td>
+        </tr>
+        <tr>
+          <th scope="row">Date</th>
+          <td class="text-capitalize" id="date2"></td>
+          <td class="text-capitalize" id="date3"></td>
+        </tr>
+      </tbody>
+    </table>
+    <!--<a href="JavaScript:void(0);" class="mt-3 text-left" id="signature">I would like to sign the agreement with handwritten signature</a>-->
+    <div class="hw-signature d-none w-100" id="hw-signature">
+      <p>Sign Below:</p>
+      <div class="js-signature"></div>
+      <input type="button" class="btn btn-outline-secondary" value="Clear Canvas">
+      <input type="button" class="btn btn-outline-secondary" value="Save Signature">
+    </div>
+    <!--<a href="JavaScript:void(0);" class="mt-3 text-left d-none" id="signature-default">I would like to sign the agreement with the default signature</a>-->
+    <div class="finalCheck mt-5 d-none">
+      <div class="form-group text-left">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            Check here to indicate that you have read and agree to the terms of the GDPR Article 27 Representative Agreement
+          </label>
+        </div>
+      </div>
+      <input type="submit" class="btn btn-primary collapse show" value="Continue">
+      <button class="btn btn-primary collapse" type="button" disabled>
+        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        Loading...
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+<script src="jq-signup-agreement.js"></script>
+<script src="jq-signature.js"></script>
+</body>
+</html>

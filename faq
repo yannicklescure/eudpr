@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; FAQ" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/faq" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; FAQ">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/faq" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1 class="text-capitalize">FAQ</h1>
+  <div class="accordion" id="accordionExample">
+    <ul class="list-unstyled">
+      <li>
+        <a data-toggle="collapse" href="#faq1" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Does the GDPR apply to my business?
+        </a>
+      </li>
+      <div class="collapse" id="faq1" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>
+            The GDPR applies to you if you hold any data on anyone in the EU. This means if you have any customers in the EU or if you have anyone in the EU on your list or if your website uses tracking cookies or pixels and anyone from the EU visits your site. It doesn’t matter where you are in the world, if you hold data on anyone in the EU, this applies to you and your business. It is a legal requirement and you must comply.
+          </p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq2" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How could GDPR ever impact on my business if I’m not in Europe?
+        </a>
+      </li>
+      <div class="collapse" id="faq2" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>Although it is an European reglementation, GDPR has worldwide effect. The penalties include fines of up to €20 Million or 4% of annual global revenue whichever is the larger, according to <a href="gdpr#article83" target="_blank">Article 83 of GDPR</a>. In order to protect the privacy of the data of its people, EU takes a major stride forward with GDPR and therefore will be using every means available to enforce, including international treaties. Considering those penalties, if your business processes EU residents’ personal data, you would take a major risk by not complying with the law. </p>
+          <p>Finally, GDPR allows data subjects to sue data controllers in case of a data privacy breach or a misuse of their data.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq3" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Can I take data protection representative services whenever I need it?
+        </a>
+      </li>
+      <div class="collapse" id="faq3" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>The data protection representative’s active duties are: cooperate with data protection authorities and maintain records of processing activities, which the company that appoints the representative has to prepare and provide to the representative. Then, if you do not designate a DPR, you may fall under <a href="gdpr#article83" target="_blank">Article 83.4</a>, as a failure to designate a local representative, which brings you to the risk of a fine. Therefore, GDPR compliance means consistency, such as  continuous monitoring and updates of your data processing.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq4" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How likely is this to happen to my business?
+        </a>
+      </li>
+      <div class="collapse" id="faq4" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>The failure of any GDPR requirement may lead to a administrative penalty, such as a fine, even a collective action of data subjects whose data protection rights have not been protected by data controllers. European data protection supervisory authorities will ensure the enforcement of the GDPR by the support of any EU state.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq5" role="button" aria-expanded="false" aria-controls="collapseExample">
+          What EUDPR services are for if my privacy policy as a GDPR privacy notice, and I have already notified my customers list.
+        </a>
+      </li>
+      <div class="collapse" id="faq5" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>All these improvements represent some of the actions needed to be GDPR compliant. However, <b>without an EU representative you are just not compliant with the GDPR</b> unless you have an establishment in the EU directly.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq6" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Is being GDPR compliant mandatory for a non-EU company?
+        </a>
+      </li>
+      <div class="collapse" id="faq6" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p><a href="gdpr#article83" target="_blank">Article 83.4 of GDPR</a> has been written for this specific reason. To avoid the GDPR administrative fines, you could decide to delete all EU customers from your list and not collect data from anyone in the EU in future.</p>
+          <p>If that isn’t an option, we kindly invite you to <a href="signup">open an account</a> or look at other GDPR service providers in the market. It’s a service that tends to be offered by lawyers, most of whom just probably don’t understand how your business works and who tend to be very expensive. At EUDPR, we have really tried to make GDPR seamless for businesses by offering the easiest and the safest possible services.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq7" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How does this service work?
+        </a>
+      </li>
+      <div class="collapse" id="faq7" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>We provide you with a representative in the EU for GDPR purposes. It is a requirement of the GDPR that if you are not established in the EU, you must appoint a representative in the EU who is your point of contact there for people in the EU and the regulators in the EU.</p>
+          <p>You can then put our contact details on your website, in your terms of business and in any of your apps etc. and if we receive any contact from anyone in the EU on your behalf we will forward it to you and liaise with you on any further communication required.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq8" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How much does it cost?
+        </a>
+      </li>
+      <div class="collapse" id="faq8" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>Our services start at just €125 a month or €1500 paid annually. <a href="pricing">See full details here</a>.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq10" role="button" aria-expanded="false" aria-controls="collapseExample">
+          What will I have to do ?
+        </a>
+      </li>
+      <div class="collapse" id="faq10" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>At the beginning, you will have to fill in a data processing record form, that will be sent to the regulation authority. For any update of your personal data processing, a updated form will be sent for compliance purpose.</p>
+          <p>Besides, in case of a privacy breach, you will have to communicate with us in the first place, in order to notify the regulation authority that covers the rights of the data subjects whose privacy has been breached.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq11" role="button" aria-expanded="false" aria-controls="collapseExample">
+          What happens if I need to use the service and I get contacted via my representative?
+        </a>
+      </li>
+      <div class="collapse" id="faq11" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>The annual payment covers the appointment of your representative and authorizes you to use the representative’s contact details for your business. If you receive a contact via your representative, the first email contact is forwarded for free. If you need additional services at that stage you can get them when you need them. <a href="pricing">See full details here</a>.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq12" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Is there a long term commitment?
+        </a>
+      </li>
+      <div class="collapse" id="faq12" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>If you opt for an annual billing, your initial payment includes representation for your first twelve months. You can cancel at any time and if you cancel within your first 30 days because you are not happy with the service you can get a full, unconditional refund. After your first twelve months you can continue using the service for €125 per month and you can cancel at any time, there is no long term commitment.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq13" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How can I use EUDPR services?
+        </a>
+      </li>
+      <div class="collapse" id="faq13" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>First step, we kindly invite you to <a href="signup">open an account</a>.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq14" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How to stop using EUDPR services?
+        </a>
+      </li>
+      <div class="collapse" id="faq14" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>If you decide to stop using EUDPR services, you have a full 30 days no hassle, unconditional, money back guarantee. Contact us within 30 days, discontinue using the service and delete any reference to us as your representatives and we will refund your payment in full. After 30 days you can cancel at any time once you discontinue using our services and delete any reference to us as your representatives.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq15" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Do I need a Data Protection Representative (DPR) if I have already a Data Protection Officer (DPO)?
+        </a>
+      </li>
+      <div class="collapse" id="faq15" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>The obligation to have a DPO is a different obligation (<a href="gdpr#article37" target="_blank">See Article 37 of GDPR</a>). The DPO is responsible for oversight of data protection strategy and compliance with GDPR, and works within your business.</p>
+          <p>​A Data Protection Representative is based in the EU member states where your customers live, and is their local point of contact for raising data requests with your business (<a href="gdpr#article27" target="_blank">See Article 27 of GDPR</a>).</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq16" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Must the Data Protection Representative be an individual person?
+        </a>
+      </li>
+      <div class="collapse" id="faq16" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>Data Protection Representative must be a legal person which includes a company, however it doesn't have to be a natural person (an individual). <a href="signup">​By appointing EUDPR as your Data Protection Representative in the EU</a>, our services include to accept and manage communications on your behalf.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq17" role="button" aria-expanded="false" aria-controls="collapseExample">
+          How could the EU issue my non-EU business with a 20 million euros fine?
+        </a>
+      </li>
+      <div class="collapse" id="faq17" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>It is one of the key European Union principles that the rights of individuals are protected, and this protection extends out from the EU to the rest of the world ensuring that, in the modern world of decentralised data, the privacy of European citizens is protected worldwide.</p>
+          <p>​In order to meet the needs of the EU market, the GDPR protections are likely to become standard across most multinational companies.</p>
+          <p>Some businesses have struggled with modern data protection practices. Their concerns arise with the consequences of an increasingly-likely data breach and the reputational damage that could results. If you require assistance in this area, <a href="contact">please contact us so we can discuss your requirements</a>.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq18" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Do I still need a data protection representative if my business is based in a country which has an equivalent regulation of GDPR?
+        </a>
+      </li>
+      <div class="collapse" id="faq18" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>The EU recognises some countries as having data protection laws which are equivalent to those in the EU. These are the other EEA countries (Iceland, Liechtenstein and Norway) as well as Andorra, Argentina, Canada, Faroe Islands, Guernsey, Israel, Isle of Man, Jersey, New Zealand, Switzerland and Uruguay. The EU permits transfers of data to these countries without extra measures being put in place, such as binding corporate rules etc. The USA has a similar arrangement via the <a href="https://www.privacyshield.gov/welcome" target="_blank">Privacy Shield</a>.</p>
+          <p>However, this does not remove the need for a Data Protection Representative (<a href="gdpr#article49" target="_blank">See Article 49 of GDPR</a>). The equivalent regulation relates to data transportation across international boundaries but makes no difference to the obligation on a non-EU data controller or processor requiring an EU-based Data Protection Representative under <a href="gdpr#article27" target="_blank">Article 27 of GDPR</a>.</p>
+        </div>
+      </div>
+      <li>
+        <a data-toggle="collapse" href="#faq19" role="button" aria-expanded="false" aria-controls="collapseExample">
+          Are UK businesses also under the obligation of appointing a Data Protection Representative?
+        </a>
+      </li>
+      <div class="collapse" id="faq19" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="py-3">
+          <p>UK was still part of the EU when enforcement of GDPR commences on 25 May 2018 which made it subject to GDPR at that time. After the Brexit, data controllers and processors in the UK with customers in the EU will be placed in the same position as other non-EU based businesses. UK businesses will require an appointed Data Protection Representative.</p>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

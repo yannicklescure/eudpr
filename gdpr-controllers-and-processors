@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; GDPR — Controllers and Processors" />
+  <meta property="og:description" content="One essential notion in the GDPR which needs to be clearly understood is the difference between a Controller and a Processor. Lets, obviously start by the definitions. Article 4 of the GDPR states..." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://eudpr.com/gdpr-controllers-and-processors" />
+  <meta property="og:image" content="https://eudpr.com/media/body-language-business-etiquette-businesspeople-1179804.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@remywilders">
+  <meta name="twitter:title" content="GDPR — Controllers and Processors">
+  <meta name="twitter:description" content="One essential notion in the GDPR which needs to be clearly understood is the difference between a Controller and a Processor. Lets, obviously start by the definitions. Article 4 of the GDPR states...">
+  <meta name="twitter:image" content="https://eudpr.com/media/body-language-business-etiquette-businesspeople-1179804.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.eudpr.com/icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/gdpr-controllers-and-processors" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27, brexit">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="article-sticky-share fixed-top d-none">
+    <ul class="list-unstyled">
+      <li><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="left" title="Share on Twitter">twitter</a></li>
+      <li><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="left" title="Share on Facebook">facebook</a></li>
+      <li><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="left" title="Share on LinkedIn">linkedin</a></li>
+      <li><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="left" title="Email this article">email</a></li>
+      <li><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="left" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+  <div class="container-text col-lg-8 mx-auto">
+    <img src="media/body-language-business-etiquette-businesspeople-1179804.png" class="img-fluid" alt="eudpr">
+    <h1 class="mt-5">GDPR — Controllers and Processors</h1>
+    <div class="row my-5">
+      <div class="d-inline col-lg-6">
+        <img src="https://eudpr.com/profile/rem.jpg" class="float-left rounded-circle mr-3" alt="RemyWilders" height="48">
+        <div>Remy Wilders<a href="https://twitter.com/RemyWilders" target="_blank"><i class="fab fa-twitter ml-1 text-dark"></i></a><a href="https://www.linkedin.com/in/remy-wilders-159320/" target="_blank"><i class="fab fa-linkedin ml-1 text-dark"></i></a><br /><span class="text-muted">April 22, 2019</span></div>
+      </div>
+      <div class="d-block pt-3 d-lg-none">&emsp;</div>
+      <div class="d-inline col-lg-6">
+        <!--<audio controls>
+          <source src="media/audio_gdpr-what-to-expect-from-your-eu-representative.ogg" type="audio/ogg">
+          Your browser does not support the audio element.
+        </audio>-->
+      </div>
+    </div>
+    <p>One essential notion in the GDPR which needs to be clearly understood is the difference between a Controller and a Processor.</p>
+    <p>Lets, obviously start by the definitions. Article 4 of the GDPR states:</p>
+    <p><strong>‘controller’</strong> means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;</p>
+    <p>and…</p><p><strong>‘processor’</strong> means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;</p>
+    <p>So, in a nutshell, for most companies, a controller is the one offering an added value service to its clients by processing personal data. The processor, on the other hand, is a sub contractor for processing personal data on behalf of a controller. It is interesting to note that the french translation of processor is “sous-traitant” which literally means “sub-contractor”.</p>
+    <p>Keeping in mind the fact that personal data are owned by the individuals and not the companies, the question to ask is therefore:</p>
+    <p>“Are the personal data processed by my company owned by my users or clients?” If the answer is “yes” then your company is a processor.</p>
+    <p>For example if your company is selling shoes, the personal data is processed for sending the goods to your clients. Your company is therefore a controller. If you work with another company which manages a newsletter for your company, this other company will be processing the email addresses of your company’s clients for sending out the newsletter. This other company will therefore be a processor.</p>
+    <p>In some instances the added value is provided by both parties which are therefore partners or, as the GDPR would put it, joint controllers. A good example for this is the partnership between a bank and an insurer for providing a loan. Both the bank and the insurer are providing a specific added value service and process the personal data for their joint clients.</p>
+    <p>Having said all this it is now necessary to look at why it is important to distinguish controllers from processors.</p>
+    <p>Controllers are responsible for their users’ and clients’ personal data even if it is being processed by a processor. This means that the contract binding these two parties needs to clearly define what data are being transferred to the processor, for what purpose and for how long the data will be held by the sub-contractor. The contract will also state that the controller may audit the processor in regards to the security measures that will have been agreed upon. Should a user or client wish to exercise one of their GDPR rights, the contract needs to detail how it will be dealt with by each of the two parties.</p>
+    <p>Finally a contract between a controller and a processor needs to define the process which needs to be followed in the case of a data breach. The GDPR requires that the processor inform the controller as soon as possible whereas the controller will then have 72 hours to inform the end users.</p><p name="fe58" id="fe58" class="graf graf--p graf-after--p">Regarding joint controllers the responsibilities are simpler to deal with in the partnership contract because each party is sole responsible for the personal data it manages.</p>
+    <p>Should you still have questions about your company’s role in regards to the processing of personal data, the best is to check with your GDPR lawyer or, if you are outside of Europe, with your European Representative.</p>
+    <hr>
+    <p class="my-3 text-left">Article published on <a href="https://medium.com/eudpr" target="_blank">Medium</a><!-- and <a href="https://irishtechnews.ie/coming-soon-the-gdpr-easter-egg/" target="_blank">IrishTechNews</a>--></p>
+  </div>
+  <!--<div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col-6 d-block d-inline text-left">
+      <a class="" href="#">&laquo; Previous</a>
+    </div>
+    <div class="col-6 d-block d-inline text-right">
+      <a class="" href="#">Next &raquo;</a>
+    </div>
+  </div>-->
+  <div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col d-block d-inline text-left">
+      <a class="text-dark" href="the-tell-tale-data">Next article: <em>The tell tale data</em></a><br />
+      <a class="text-dark" href="gdpr-you-dont-own-me">Previous article: <em>GDPR — You don’t own me</em></a><br />
+    </div>
+  </div>
+  <div class="article-bottom-share text-center mt-5">
+    <h2>Share This</h2>
+    <p class="text-muted">Share this article with your friends!</p>
+    <ul class="list-inline">
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="top" title="Share on Twitter">twitter</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="top" title="Share on Facebook">facebook</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="top" title="Share on LinkedIn">linkedin</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="top" title="Email this article">email</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="top" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+  <div class="container-text row col-lg-8 mx-auto mt-5">
+    <!-- Card 20190414 -->
+    <div class="d-inline col-md-6 col-lg-4">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/freedom-handcuffs-hands-247851-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100"><small>Remy Wilders &ndash; April 14, 2019</small></div>
+            <a href="gdpr-you-dont-own-me" class="stretched-link text-dark">GDPR — You don’t own me</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190407 -->
+    <div class="d-inline col-md-6 col-lg-4">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/adult-cheerful-clipboard-1089549-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100"><small>Remy Wilders &ndash; April 7, 2019</small></div>
+            <a href="gdpr-getting-your-contracts-right" class="stretched-link text-dark">GDPR — Getting your contracts right</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190329 -->
+    <div class="d-inline col-md-6 col-lg-4">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/blurred-background-fashion-golden-hour-935019_small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100"><small>Remy Wilders &ndash; March 29, 2019</small></div>
+            <a href="gdpr-e-survival" class="stretched-link text-dark">GDPR — e-Survival</a>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

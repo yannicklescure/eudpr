@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Cookies" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/cookies" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Cookies">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/cookies" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1><i class="fas fa-cookie"></i> Cookies Policy</h1>
+  <div class="small">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="legal">EUDPR &bull; Legal</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Cookies Policy</li>
+      </ol>
+    </nav>
+  </div>
+  <div class="pt-3">
+    <p class="lead text-muted">This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.</p>
+    <p><em>Disclaimer: The following translation is provided for your convenience only. Only the original French document of the respective Legal Mentions is legally binding. This applies to all of our legal documents.</em></p>
+    <h5>Who are we?</h5>
+    <p>Welcome to the EUDPR website, published by EUDPR SAS. We offer companies, outside of Europe, to act on their behalf as a GDPR representative within the EU according to the article 27 of the General Data Protection Reglementation (GDPR).</p>
+    <p>This section allows you to learn more about the origin and the use of the navigation information processed during your consultation of our platform and your rights. This Policy is therefore important to you, who wish to have a positive and confident experience of our services and to us, who wish to answer your questions on your consultation of our platform in a precise and complete way and to take account of your wishes.</p>
+    <p>During the consultation of our site, information about the navigation of your terminal (computer, tablet, smartphone, etc.) on our site, are likely to be saved in "Cookies" files installed on your terminal, subject to the choices you have made regarding cookies and which you can change at any time.</p>
+    <h5>What are the cookies issued on this platform used for?</h5>
+    <p>Only the issuer of a cookie is liable to read or modify the information contained therein.</p>
+    <h6>Cookies we issue on our site</h6>
+    <p>When you log on to our site, we may, subject to your choices, be able to install various cookies in your terminal allowing us to recognize the browser of your terminal during the validity period of the cookie concerned. The cookies we issue are used for the purposes described below, subject to your choices, which result from the parameters of your navigation software used during your visit of our platform that you can express to us at any time. The retention period for this information is 13 months.</p>
+    <h6>Cookies that we emit allow us:</h6>
+    <ul>
+      <li>establish statistics and volumes of attendance and use of the various elements composing our platform (topics and contents visited, route), allowing us to improve the interest and ergonomics of our services;</li>
+      <li>adapt the presentation of our platform to the display preferences of your terminal (language used, display resolution, operating system used, etc.) during your visits to our platform, depending on the visualization hardware and software of your device;</li>
+      <li>memorize information relating to a form you have filled in on our platform (registration or access to your account) or to products, services or information that you have chosen on our platform (subscribed service, contents of a shopping cart, etc.);</li>
+      <li>allow you to access reserved and personal spaces of our platform, such as your account, by means of logins or data that you have potentially previously entrusted to us;</li>
+      <li>implement security measures, for example when you are asked to re-connect to a content or a service after a certain period of time.</li>
+    </ul>
+    <h5>Third-party cookies</h5>
+    <h6>Analytical/performance cookies</h6>
+    <ul>
+      <li>Google Analytics | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://privacy.google.com/businesses/compliance/%23%3Fmodal_active%3Dnone#?modal_active=none" target="_blank">Privacy policy</a></li>
+      <li>Segment.io | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://segment.com/docs/legal/privacy/" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://segment.com/product/gdpr" target="_blank">Privacy policy</a></li>
+      <li>Google Tag Manager | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.google.com/intl/fr/analytics/tag-manager/use-policy/" target="_blank">Cookies Policy</a></a></li>
+      <li>Amplitude | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://amplitude.com/privacy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://amplitude.com/blog/2018/04/24/amplitude-gdpr" target="_blank">Privacy policy</a></li>
+      <li>Hotjar | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.hotjar.com/legal/policies/cookie-information" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.hotjar.com/legal/compliance/gdpr-commitment" target="_blank">Privacy policy</a></li>
+    </ul>
+    <h6>Targeting cookies</h6>
+    <ul>
+      <li>Facebook Ads | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://fr-fr.facebook.com/policies/cookies/" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://fr-fr.facebook.com/business/gdpr" target="_blank">Privacy policy</a></li>
+      <li>Google Adwords | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://policies.google.com/privacy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://privacy.google.com/businesses/compliance/%23%3Fmodal_active%3Dnone#?modal_active=none" target="_blank">Privacy policy</a></li>
+      <li>Linkedin Insight Tag | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.linkedin.com/legal/cookie-policy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.linkedin.com/help/linkedin/answer/87080/linkedin-marketing-solutions-and-the-general-data-protection-regulation-gdpr-%3Flang%3Den" target="_blank">Privacy policy</a></li>
+      <li>Bing Ads | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://advertise.bingads.microsoft.com/en-gb/resources/policies/microsoft-bing-ads-privacy-policy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://advertise.bingads.microsoft.com/en-gb/resources/policies/privacy-and-data-protection-policies" target="_blank">Privacy policy</a></li>
+      <li>Twitter Ads | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://twitter.com/fr/privacy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://gdpr.twitter.com/en.html" target="_blank">Privacy policy</a></li>
+      <li>Awin | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.awin.com/gb/legal/privacy-policy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.awin.com/us/news-and-events/gdpr/awin-and-the-gdpr-2" target="_blank">Privacy policy</a></li>
+    </ul>
+    <h6>Other tools via third party-cookie</h6>
+    <ul>
+      <li>Visual Website Optimizer (AB Testing) | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://vwo.com/privacy-policy/" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://vwo.com/platform/security-compliance/gdpr/" target="_blank">Privacy policy</a></li>
+      <li>Zendesk | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.zendesk.fr/company/customers-partners/cookie-policy/" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.zendesk.fr/company/customers-partners/eu-data-protection/" target="_blank">Privacy policy</a></li>
+      <li>Branch Metrics | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://branch.io/policies/%23privacy#privacy" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://branch.io/gdpr/" target="_blank">Privacy policy</a></li>
+    </ul>
+    <h6>Other analytics or data trackers (SDK or Server-side)</h6>
+    <ul>
+      <li>Google Firebase (mobile apps) | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://firebase.google.com/policies/analytics/" target="_blank">Cookies Policy</a> - <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://firebase.google.com/support/privacy/" target="_blank">Privacy policy</a></li>
+      <li>Hull.io (ServerSide Data Tracking) | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://www.hull.io/pp/" target="_blank">Privacy policy</a></li>
+      <li>Fabric.io | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://docs.fabric.io/android/fabric/data-privacy.html" target="_blank">Privacy policy</a></li>
+      <li>MailChimp | <a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://mailchimp.com/legal/privacy/" target="_blank">Privacy policy</a></li>
+    </ul>
+    <h5>Your choices regarding cookies</h5>
+    <p>There are several ways to manage cookies. Any settings you apply may change your Internet browsing and your conditions of access to certain services that require the use of cookies.</p>
+    <p>You can make the choice at any time to express and modify your wishes with regard to cookies, by the means described below.</p>
+    <h5>The choices offered by your navigation software</h5>
+    <p>You can configure your navigation software so that cookies are recorded on your device or rejected, either systematically, or depending on their issuer. You can also set up your browser software so that acceptance or rejection of cookies is proposed to you, before a cookie is likely to be recorded in your terminal.</p>
+    <h5>Cookies agreement</h5>
+    <p>The recording of a cookie in a terminal is essentially subordinated to the will of the user of the terminal, which the user can express and modify at any time and without paying for it, through the choices offered to him by his navigation software.</p>
+    <p>If you have accepted in your browser the recording of cookies in your terminal, the cookies embedded in the pages and contents that you have consulted can be stored temporarily in a dedicated space of your terminal. They will be readable only by their issuer.</p>
+    <h5>Cookies refusal</h5>
+    <p>If you refuse to record cookies on your device, or delete those which are recorded, you will no longer benefit from a certain number of features that are necessary to navigate to certain spaces of our platform. This would be the case if you tried to access our content or services that require you to be identified. This would also be the case if we - or our service providers - could not recognize, for technical compatibility purposes, the type of browser used by your device, its language and display settings or the country from which your device seems to be connected to the Internet.</p>
+    <p>In that case, we accept no responsibility for any consequences arising from the degraded functioning of our services resulting from the fact that we cannot record or consult the cookies necessary for their operation and which you have refused or deleted.</p>
+    <h5>How to exercise your choices, depending on the browser you are using?</h5>
+    <p>For the management of cookies and your choices, the configuration of each browser is different. It is described in the help menu of your browser, which will allow you to know how to change your settings for cookies:</p>
+    <ul>
+      <li><a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Internet Explorer</a></li>
+      <li><a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=https://support.apple.com/fr-fr/HT201265" target="_blank">Safari</a></li>
+      <li><a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=http://support.google.com/chrome/bin/answer.py%3Fhl%3Dfr%26hlrm%3Den%26answer%3D95647" target="_blank">Chromium</a></li>
+      <li><a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=http://support.mozilla.org/fr/kb/Activer%2520et%2520d%25C3%25A9sactiver%2520les%2520cookies" target="_blank">Firefox</a></li>
+      <li><a href="https://translate.google.com/translate?hl=en&prev=_t&sl=fr&tl=en&u=http://help.opera.com/fr/cookies.html" target="_blank">Opera</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

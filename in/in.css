@@ -1,0 +1,21 @@
+body {
+  background-image: url("background.png"); /* The image used */
+  background-color: #ffffff; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: top left; /* Center the image */
+  background-repeat: repeat-x;; /* Do not repeat the image */
+  //background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.dropdown-menu a:hover{
+  background-color: #007cf9;
+  color: #ffffff;
+}
+
+.nav-link {
+  padding: 0;
+}
+
+#text-title {
+  padding: 0;
+}

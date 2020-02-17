@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Contact" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/contact" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Contact">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/contact" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="d-flex col-lg-8 mx-auto">
+    <form id="contact-form" method="POST">
+      <div class="text-center mb-5" id="ContactTitle"><h1>Contact</h1></div>
+      <div class="form-group">
+        <div class="form-row">
+          <div class="col">
+            <label for="name">Name</label>
+            <input type="text" id="first-name-input" class="form-control" placeholder="First name" required>
+          </div>
+          <div class="col">
+            <label for="name">&nbsp;</label>
+            <input type="text" id="last-name-input" class="form-control" placeholder="Last name" required>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email-input" class="form-control" placeholder="Email address" required>
+      </div>
+      <div class="form-group" id="jobInput">
+        <label for="job">Job Title</label>
+        <input type="text" id="job-input" class="form-control">
+      </div>
+      <div class="form-group" id="companyNameInput">
+        <label for="company">Company/Affiliation</label>
+        <input type="text" id="company-name-input" class="form-control">
+      </div>
+
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input type="text" id="street-address-1" class="form-control" placeholder="Street address">
+      </div>
+      <div class="form-group">
+        <input type="text" id="street-address-2" class="form-control" placeholder="Street address Line 2">
+      </div>
+      <div class="form-row">
+        <div class="col-md-6 mb-3">
+          <input type="text" id="country-input" class="form-control" placeholder="Country">
+        </div>
+        <div class="col-md-3 mb-3">
+          <input type="text" id="city-input" class="form-control" placeholder="City">
+        </div>
+        <div class="col-md-3 mb-3">
+          <input type="text" id="zip-input" class="form-control" placeholder="Zip">
+        </div>
+      </div>
+
+      <div class="form-group" id="companyTypeInput">
+        <label>Company Type</label>
+        <select id="company-type-input" class="form-control col-md-6">
+          <option disabled selected value> -- select an option -- </option>
+          <option value="Accounting Firm">Accounting Firm</option>
+          <option value="Brokerage Firm">Brokerage Firm</option>
+          <option value="Conference / Events Consulting Firm">Conference / Events Consulting Firm</option>
+          <option value="Exchange">Exchange</option>
+          <option value="Hedge Fund">Hedge Fund</option>
+          <option value="Investment Bank">Investment Bank</option>
+          <option value="Investor">Investor</option>
+          <option value="ICO">ICO</option>
+          <option value="Law Firm">Law Firm</option>
+          <option value="Media Company">Media Company</option>
+          <option value="Regulator">Regulator</option>
+          <option value="School">School</option>
+          <option value="Service Provider">Service Provider</option>
+          <option value="Think Tank">Think Tank</option>
+          <option value="Venture Fund">Venture Fund</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <div class="form-group" id="companySizeInput">
+        <label>Company Size</label>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="company-size-input" id="company-size-input-1" value="Micro Enterprise" checked>
+          <label class="form-check-label" for="company-size-input-1">
+            Micro Enterprise
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="company-size-input" id="company-size-input-2" value="Small Enterprise">
+          <label class="form-check-label" for="company-size-input-2">
+            Small Enterprise
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="company-size-input" id="company-size-input-3" value="Medium-sized Enterprise">
+          <label class="form-check-label" for="company-size-input-3">
+            Medium-sized Enterprise
+          </label>
+        </div>
+      </div>
+      <div class="form-group" id="enquiryInput">
+        <label>Enquiry</label>
+        <select id="enquiry-input" class="form-control col-md-6" required>
+          <option disabled selected value> -- select an option -- </option>
+          <option value="General Info and Getting Started">General Info and Getting Started</option>
+          <option value="Talk with Sales Team">Talk with Sales Team</option>
+          <option value="Account">Account</option>
+          <option value="Billing">Billing</option>
+          <option value="Press">Press</option>
+          <option value="Become a Partner">Become a Partner</option>
+          <option value="Affiliate Program">Affiliate Program</option>
+          <option value="GDPR Enquiry">GDPR Enquiry</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="description-input">How may we assist you?</label>
+        <textarea class="form-control" id="description-input" rows="5"></textarea>
+      </div>
+      <div class="form-group" id="refCode"></div>
+      <div class="form-group">
+        <input type="submit" class="btn btn-primary collapse show" value="Submit">
+        <button class="btn btn-primary collapse" type="button" disabled>
+          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+          Loading...
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+<script src="jq-contact.js"></script>
+</body>
+</html>

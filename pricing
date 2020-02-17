@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Pricing" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/pricing" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Pricing">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/pricing" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5 text-center">
+  <h1 class="display-4 mb-3">Pricing</h1>
+  <h3 class="display-5 text-muted text-capitalize">EUDPR, Seamless GDPR</h3>
+</div>
+
+<div class="container mt-5 text-center">
+  <p class="lead">Most companies just don't have time to study the GDPR because they have a business to run. We understand that so our aim is to guide you through the GDPR maze one  easy step at a time. At no extra cost EUDPR will be much more than a representative we will be <mark>your GDPR coach and partner</mark>. With our tailored program you can be GDPR safe within a month. We will tell you what you need to know and which steps to take.</p>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="custom-control custom-switch d-none">
+    <input type="checkbox" class="custom-control-input" id="customSwitch1">
+    <label class="custom-control-label" for="customSwitch1">Display prices in US Dollar</label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline d-inline-block">
+    <input type="radio" id="price-eur" name="currency" class="custom-control-input">
+    <label class="custom-control-label" for="price-eur"><span class="text-dark">Euro</span></label>
+  </div>
+  <div class="custom-control custom-radio custom-control-inline d-inline-block">
+    <input type="radio" id="price-usd" name="currency" class="custom-control-input">
+    <label class="custom-control-label" for="price-usd"><span class="text-dark">US Dollar</span><sup>*</sup></label>
+  </div>
+</div>
+
+<div class="container">
+  <div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h2><i class="fas fa-blog"></i></h2>
+        <h4 class="my-0 font-weight-normal text-capitalize">Blogger<br />&nbsp;</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title"><span class="euro-sign">&euro;</span><span class="p1-monthly">35</span> <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Up to 5 employees</li>
+          <li>Revenue<sup>**</sup> < <span class="euro-sign">&euro;</span>2M</li>
+        </ul>
+        <a href="blogger" class="btn btn-lg btn-block btn-outline-primary">Choose this plan</a>
+      </div>
+    </div>
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h2><i class="fas fa-user"></i></h2>
+        <h4 class="my-0 font-weight-normal text-capitalize">Micro<br />Enterprise</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title"><span class="euro-sign">&euro;</span><span class="p2-monthly">125</span> <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Up to 10 employees</li>
+          <li>Revenue<sup>**</sup> < <span class="euro-sign">&euro;</span>2M</li>
+        </ul>
+        <a href="micro" class="btn btn-lg btn-block btn-outline-primary">Choose this plan</a>
+      </div>
+    </div>
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h2><i class="fas fa-user-friends"></i></h2>
+        <h4 class="my-0 font-weight-normal text-capitalize">Small<br />Enterprise</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title"><span class="euro-sign">&euro;</span><span class="p3-monthly">225</span> <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Up to 50 employees</li>
+          <li>Revenue<sup>**</sup> < <span class="euro-sign">&euro;</span>10M</li>
+        </ul>
+        <a href="small" class="btn btn-lg btn-block btn-outline-primary">Choose this plan</a>
+      </div>
+    </div>
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h2><i class="fas fa-users"></i></h2>
+        <h4 class="my-0 font-weight-normal text-capitalize">Medium-sized<br />Enterprise</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title"><span class="euro-sign">&euro;</span><span class="p4-monthly">400</span> <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Up to 250 employees</li>
+          <li>Revenue<sup>**</sup> < <span class="euro-sign">&euro;</span>50M</li>
+        </ul>
+        <a href="medium-sized" class="btn btn-lg btn-block btn-outline-primary">Choose this plan</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <p class="text-muted pl-1">
+    <small><span class="d-inline-block" style="width:1em">*</span>Indicative price</small><br />
+    <small><span class="d-inline-block" style="width:1em">**</span>Revenue of your organisation in the last 12 months</small>
+  </p>
+</div>
+
+<div class="container my-5 text-center">
+  <h1>Details and options</h1>
+  <p class="lead text-muted">No hidden fees, no movement fees. It's all here.</p>
+</div>
+
+<div class="container my-5 text-left">
+  <div class="table-responsive">
+    <table class="table">
+      <caption>
+        <ul class="list-unstyled">
+          <li>
+            <small>1 All annual fees includes
+              <ul>
+                <li>Handling of 10 GDPR Data Request Communications</li>
+                <li>Assistance with the handling of a data breach notification</li>
+                <li>GDPR Expert Consulting&emsp;i. 1 hour free &emsp;ii. 3 hours free&emsp;iii. 7 hours free</li>
+              </ul>
+            </small>
+          </li>
+          <li><small>2 No large scale processing of individuals in the EU</small></li>
+          <li>
+            <small>3 GDPR Documents includes
+              <ul>
+                <li>Data Processing Record template</li>
+                <li>Terms of Use template</li>
+                <li>Privacy Policy template</li>
+                <li>Cookies Policy template</li>
+                <li>Guidance Note for each template</li>
+              </ul>
+            </small>
+          </li>
+          <li>
+            <small>4 Communications in a language other than English could require extra translation fees</small>
+          </li>
+        </ul>
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Blogger</th>
+          <th scope="col">Micro Enterprise</th>
+          <th scope="col">Small Enterprise</th>
+          <th scope="col">Medium-sized Enterprise</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="text-left">Revenue of your organisation in the last 12 months</td>
+          <td>Up to <span class="euro-sign">&euro;</span>2M</td>
+          <td>Up to <span class="euro-sign">&euro;</span>2M</td>
+          <td>Up to <span class="euro-sign">&euro;</span>10M</td>
+          <td>Up to <span class="euro-sign">&euro;</span>50M</td>
+        </tr>
+        <tr>
+          <td class="text-left">Number of employees</td>
+          <td>Up to 5 employees</td>
+          <td>Up to 10 employees</td>
+          <td>Between 10 and 49 employees</td>
+          <td>Between 50 and 249 employees</td>
+        </tr>
+        <tr>
+          <td class="text-left">Annual Fees<sup>1</sup></td>
+          <td><span class="euro-sign">&euro;</span><span class="p1-annual">420</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p2-annual">1,500</span><sup>i</sup></td>
+          <td><span class="euro-sign">&euro;</span><span class="p3-annual">2,700</span><sup>ii</sup></td>
+          <td><span class="euro-sign">&euro;</span><span class="p4-annual">4,800</span><sup>iii</sup></td>
+        </tr>
+        <tr>
+          <td class="text-left">Monthly Fees</td>
+          <td><span class="euro-sign">&euro;</span><span class="p1-monthly">35</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p2-monthly">125</span> </td>
+          <td><span class="euro-sign">&euro;</span><span class="p3-monthly">225</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p4-monthly">400</span> </td>
+        </tr>
+        <tr>
+          <td class="text-left">Commitment Free</td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+        </tr>
+        <tr>
+          <td class="text-left">Processing of none sensitive data<sup>2</sup> </td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+        </tr>
+        <tr>
+          <td class="text-left">Priority Email Support</td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+        </tr>
+        <tr>
+          <td class="text-left">GDPR Documents<sup>3</sup></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+        </tr>
+        <tr>
+          <td class="text-left">1st GDPR Data Request Communications<sup>4</sup></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+          <td><i class="fas fa-check mr-3 text-success"></i></td>
+        </tr>
+        <tr>
+          <td class="text-left">Additional GDPR Data Request Communications</td>
+          <td><span class="euro-sign">&euro;</span><span class="p5">25</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p5">25</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p5">25</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p5">25</span></td>
+        </tr>
+        <tr>
+          <td class="text-left">GDPR Personal Review</td>
+          <td><span class="euro-sign">&euro;</span><span class="p6">50</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p6">50</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p6">50</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p6">50</span></td>
+        </tr>
+        <tr>
+          <td class="text-left">Hourly rate for GDPR Expert Consulting</td>
+          <td><span class="euro-sign">&euro;</span><span class="p7">150</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p7">150</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p7">150</span></td>
+          <td><span class="euro-sign">&euro;</span><span class="p7">150</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

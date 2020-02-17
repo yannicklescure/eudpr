@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <pre>
+
+    eudpr.com    author: Yannick Lescure    contact: yannick.lescure@gmail.com
+
+    changelog
+
+    March 11, 2019
+    * add buttons to share articles on twitter, facebook, linkedin, email, and copy to clipboard
+    * remove class table-striped in pricing page table
+    * set dark theme color to footer
+    * add "Type of Business Entity" field in signup page
+    * change navbar progress bar height from 1px to 2px
+    * update jQuery file name from js.*.js to jq-*.js
+    * update jq-cookies.js code
+    * implement signup-agreement page that allow client to sign contract
+
+    March 8, 2019
+    * add articles link to navbar
+    * fix bug red button stays over sidenav on gdpr page for small view
+    * fix bug left sidebar stays over sidenav on gdpr page for medium view
+    * move html pages js code to js.main.js file for better practice
+    * add progress bar to navigation bar (navbar)
+    * add Open Graph protocol metadata to all pages
+      http://ogp.me
+    * add Twitter metadata to all pages
+      https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards
+    * make first column fixed on horizontal scroll in pricing page table
+
+    March 3, 2019
+    * upgrade bootstrap to 4.3.1
+    * minor bugs fix
+    * update sidenav with articles + homepage
+    * add articles page
+    * update homepage with country menu selection + text change on country select + cookie EU addition
+    * update pricing page with USD prices or euro based on EU cookie or user selection
+
+    February 28, 2019
+    * add side navigation (sidenav)
+
+    February 24, 2019
+    * upgrade bootstrap to 4.2.1
+    * add blogger page
+
+    December 15, 2018
+    * starting development
+    </pre>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

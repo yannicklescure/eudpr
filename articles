@@ -1,0 +1,200 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Articles" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/articles" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Articles">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/articles" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container">
+  <p class="h1 display-4 text-center">Articles</p>
+  <div class="container-text row">
+    <!-- Card 20190512 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/benches-blue-jeans-casual-1134204-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; May 12, 2019</div>
+            <a href="gdpr-oops-is-not-an-option" class="stretched-link text-dark lead text-break">GDPR — “Oops” is not an option</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190428 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/can-chat-chatting-362-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; April 28, 2019</div>
+            <a href="the-tell-tale-data" class="stretched-link text-dark lead text-break">The tell tale data</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190422 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/body-language-business-etiquette-businesspeople-1179804-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; April 22, 2019</div>
+            <a href="gdpr-controllers-and-processors" class="stretched-link text-dark lead text-break">GDPR — Controllers and Processors</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190414 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/freedom-handcuffs-hands-247851-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; April 14, 2019</div>
+            <a href="gdpr-you-dont-own-me" class="stretched-link text-dark lead text-break">GDPR — You don’t own me</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190407 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/adult-cheerful-clipboard-1089549-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; April 7, 2019</div>
+            <a href="gdpr-getting-your-contracts-right" class="stretched-link text-dark lead text-break">GDPR — Getting your contracts right</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190329 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/blurred-background-fashion-golden-hour-935019_small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; March 29, 2019</div>
+            <a href="gdpr-e-survival" class="stretched-link text-dark lead text-break">GDPR — e-Survival</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190324 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/bank-banking-banknote-262558_small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; March 24, 2019</div>
+            <a href="gdpr-what-to-expect-from-your-eu-representative" class="stretched-link text-dark lead text-break">GDPR — What to expect from your EU Representative</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190317 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/big-ben-bridge-castle-460672_small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; March 17, 2019</div>
+            <a href="gdpr-brexit-wont-break-britain" class="stretched-link text-dark lead text-break">GDPR — Brexit won’t break Britain!</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190310 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/bright-celebration-color-998708_small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; March 10, 2019</div>
+            <a href="the-gdpr-easter-egg" class="stretched-link text-dark lead text-break">The GDPR Easter egg</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190226 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/flag-small.png" class="img-fluid rounded" alt="eudpr">
+            </div>
+            <div class="text-muted w-100">EUDPR &ndash; February 26, 2019</div>
+            <a href="business-showcase-eudpr" class="stretched-link text-dark lead text-break">Business Showcase: EUDPR</a>
+          </div>
+        </div>
+    </div>
+    <!-- Card 20190131 -->
+    <div class="d-inline col-md-6 col-lg-4 col-xl-3">
+        <div class="card-body">
+          <div class="row">
+            <div class="my-3">
+              <img src="media/rw_medium_31012019_small.png" class="img-fluid rounded" height="150" alt="rw_medium_31012019">
+            </div>
+            <div class="text-muted w-100">Remy Wilders &ndash; January 31, 2019</div>
+            <a href="must-know-for-non-eu-companies-exposed-to-the-gdpr" class="stretched-link text-dark lead text-break">Must know for non-EU companies exposed to the GDPR</a>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>
+

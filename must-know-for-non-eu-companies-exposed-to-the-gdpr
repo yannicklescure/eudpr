@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Must know for non-EU companies exposed to the GDPR" />
+  <meta property="og:description" content="By now it is safe to say that probably all companies within Europe and most companies outside of Europe have heard about the GDPR." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/must-know-for-non-eu-companies-exposed-to-the-gdpr" />
+  <meta property="og:image" content="https://eudpr.com/media/rw_medium_31012019.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Must know for non-EU companies exposed to the GDPR">
+  <meta name="twitter:description" content="By now it is safe to say that probably all companies within Europe and most companies outside of Europe have heard about the GDPR.">
+  <meta name="twitter:image" content="https://eudpr.com/media/rw_medium_31012019.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.eudpr.com/icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/must-know-for-non-eu-companies-exposed-to-the-gdpr" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="article-sticky-share fixed-top d-none">
+    <ul class="list-unstyled">
+      <li><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="left" title="Share on Twitter">twitter</a></li>
+      <li><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="left" title="Share on Facebook">facebook</a></li>
+      <li><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="left" title="Share on LinkedIn">linkedin</a></li>
+      <li><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="left" title="Email this article">email</a></li>
+      <li><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="left" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+  <div class="container-text col-lg-8 mx-auto">
+    <img src="media/rw_medium_31012019.png" class="img-fluid" alt="rw_medium_31012019">
+    <h1 class="mt-5">Must know for non-EU companies exposed to the GDPR</h1>
+    <div class="row my-5">
+      <div class="d-inline col-lg-6">
+        <img src="https://eudpr.com/profile/rem.jpg" class="float-left rounded-circle mr-3" alt="RemyWilders" height="48">
+        <div>Remy Wilders<a href="https://twitter.com/RemyWilders" target="_blank"><i class="fab fa-twitter ml-1 text-dark"></i></a><a href="https://www.linkedin.com/in/remy-wilders-159320/" target="_blank"><i class="fab fa-linkedin ml-1 text-dark"></i></a><br /><span class="text-muted">January 31, 2019</span></div>
+      </div>
+      <div class="d-block pt-3 d-lg-none">&emsp;</div>
+      <div class="d-inline col-lg-6">
+        <audio controls>
+          <source src="media/audio_rw_medium_31012019.ogg" type="audio/ogg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+    <p>By now it is safe to say that probably all companies within Europe and most companies outside of Europe have heard about the GDPR. Far from being just one more administrative pain to deal with this regulation turns out to be a huge shift in the way the world will be doing business from now on.</p>
+    <p>As we all know the GDPR is aimed at protecting the European citizen with one big idea: the data belongs to the users and not to the companies who handle it. There would be so much to say about this however the point of this article is to discuss one of the implications of the law, the <a href="https://www.eudpr.com/gdpr#article27" data-href="https://www.eudpr.com/gdpr#article27" target="_blank">article 27</a>.</p>
+    <p>The <a href="https://www.eudpr.com/gdpr#article27" data-href="https://www.eudpr.com/gdpr#article27" target="_blank">article 27 </a> applies to any company which is not based in Europe but which has European users and/or customers. What it says, in a nutshell, is that if European residents have some exposure to your company, should it be by browsing your website or by buying your products or services, then you will probably need a GDPR representative based in Europe.</p>
+    <p>So the first question is obviously: when will you not need a GDPR representative? The answer to that seems simple: you do not need a GDPR representative when you do not gather or <a href="https://www.eudpr.com/gdpr#article4" data-href="https://www.eudpr.com/gdpr#article4" target="_blank">process personal data</a> on a regular basis (note that this applies to non sensitive data because handling sensitive data will always require a GDPR representative). You may think to yourself that simple internet sites with no user registrations are therefore off the hook. Well you would be mistaken because most internet sites collect the IP addresses of those who visit and IP addresses are considered personal data… and they are being collected on a regular basis. Such sites need to either stop storing IP logs or start right now implementing the correct set of actions to make their business GDPR compliant.</p>
+    <p>Getting back to the article 27, <a href="https://www.eudpr.com/gdpr#article83" data-href="https://www.eudpr.com/gdpr#article83" target="_blank">the GDPR says that you can be fined</a> if you have european users whilst being outside of Europe and not having a representative.</p>
+    <p>At this stage, you may think that your company will be lost in the crowd of companies and that the GDPR “Supervisory authorities” will never notice your website or have bigger fish to fry. The thing is it will not be the Supervisory authorities who will be on the lookout, it will be your users! That means that if one of your users is data sensitive or even if he simply has a grudge against your company or your website he now has an incredible tool for getting back at you. All he needs do is to fill in a form on one of the 27 EU Supervisory authorities’ sites and you will receive a notice within a couple of days. The first obvious question will be “Who is your GDPR representative in Europe?”.</p>
+    <p>Let’s say that you do not have a representative and that one of the Supervisory authorities sends you a fine, why would you pay it? After all Europe is a long way away. That is true but… there is always a but… in addition to the fine your company will be publicly listed as being non compliant to the GDPR and many of the major providers (Amazon, Google, Facebook…) have announced that they will not host or provide services to non GDPR compliant companies (with european users). Your access to the market may hence suddenly shrink quite dramatically. In addition to this you can have a reputation issue as your users may hear that you are not GDPR compliant which means, to the european public, that you do not protect their personal data, or — even worse — you are using it against their interests. Would you feel safe on such a site?</p>
+    <p>Having a GDPR representative is not enough to say that your business is GDPR compliant but it is a first step. Nonetheless, by choosing your representative wisely, not only will he provide you the tools and the walkthrough for becoming compliant but he will be your first protection to dealing with the GDPR Supervisory authorities.</p>
+    <p>Let’s take an example. Imagine you discover that your system has been hacked into and that your users’ emails and passwords have been accessed. This could be a real problem as most people use the same passwords on different websites. Even if your site does not hold sensitive data the pirates may be able to use the emails and passwords to access other sites which could hold private data or enable the pirate to act as if he were the user. The GDPR demands that each relevant Supervisory authority be informed, in its own language, within 72 hours and be told what you will do about the data breach (for example, in this case, you would inform the users and advise them to change their passwords on the other sites). Having your system hacked is not a cause for being fined — except if your security turns out to have been obviously flawed — but lacking to advise the Supervisory authorities in time will necessarily entail a fine.</p>
+    <p>That is where your GDPR representative is your best ally (if he is reliable). He will ask you all the relevant questions regarding the data breach and inform each Supervisory authority, in the local tongue, according to where your users are located. So what could have turned out to be a nightmare can end up as a set of formalities.</p>
+    <p>Choosing the right GDPR representative is key. You need to find one who cares and who is really your partner both in helping you become compliant and in times of GDPR trouble. At the same time you may never turn out having a serious GDPR issue and some solutions may be an overkill and obviously costly.</p>
+    <p>Being based in Europe and having been a GDPR consultant for both very large and small companies, I believe we have set up an efficient answer for the needs of small to medium-sized enterprises. Should this be of any interest to you, further information can be found on our website <a href="https://www.eudpr.com" data-href="https://www.eudpr.com" target="_blank">eudpr.com</a>.</p>
+    <hr>
+    <p class="my-3 text-left">Article published on <a href="https://medium.com/eudpr/must-know-for-non-eu-companies-exposed-to-the-gdpr-d86e4171631f" target="_blank">Medium</a></p>
+  </div>
+  <div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col d-block d-inline text-left">
+      <a class="text-dark" href="business-showcase-eudpr">Next article: <em>Business Showcase: EUDPR</em></a>
+      <!--<a class="text-dark" href="business-showcase-eudpr">Previous article: <em>Business Showcase: EUDPR</em></a>-->
+    </div>
+  </div>
+  <div class="article-bottom-share text-center mt-5">
+    <h2>Share This</h2>
+    <p class="text-muted">Share this article with your friends!</p>
+    <ul class="list-inline">
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="top" title="Share on Twitter">twitter</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="top" title="Share on Facebook">facebook</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="top" title="Share on LinkedIn">linkedin</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="top" title="Email this article">email</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="top" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

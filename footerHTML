@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<footer id="myFooter pt-5" class="bg-dark text-light">
+  <div class="container-fluid py-5 d-none d-sm-block">
+    <div class="row">
+      <div class="col col-sm-4 col-md-4 col-lg-4 mr-5">
+        <div class="col brand">
+          <!--<img src="https://eudpr.com/logo100.png" alt="Logo" height="100">-->
+          <div class="logo100 logo100-dark">
+            <p>European Union<br />Data Protection<br />Representatives</p>
+          </div>
+          <p class="text-muted mt-2">EUDPR is operated by real people with expertise in privacy, data protection and GDPR issues for Fintech and Regtech businesses.</p>
+          <p class="text-muted">Made in Paris with <i class="fas fa-heart" style="color:red"></i></p>
+        </div>
+      </div>
+      <div class="col col-md-6 col-lg-6 col-xl-4">
+        <div class="row">
+          <div class="col">
+            <span>About</span>
+            <a href="about" class="text-muted">Our story</a>
+            <a href="customers" class="text-muted">Our customers</a>
+            <a href="articles" class="text-muted">Articles</a>
+          </div>
+          <div class="col">
+            <span>Help</span>
+            <a href="supervisory-authorities" class="text-muted">Supervisory authorities</a>
+            <a href="gdpr#article27" class="text-muted">GDPR Article 27</a>
+            <a href="contact" class="text-muted">Contact us</a>
+            <a href="faq" class="text-muted">FAQ</a>
+          </div>
+          <div class="col">
+            <span>Socials</span>
+            <a href="https://medium.com/eudpr" target="_blank" class="text-muted">Medium</a>
+            <a href="https://linkedin.com/company/eudpr" target="_blank" class="text-muted">LinkedIn</a>
+            <a href="https://twitter.com/seamlessgdpr" target="_blank" class="text-muted">Twitter</a>
+            <a href="https://t.me/eudprnews" target="_blank" class="text-muted">Telegram</a>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+            <span>Useful links</span>
+            <a href="contact?f=press" class="text-muted">Contact press</a>
+            <a href="contact?f=partner" class="text-muted">Become a partner</a>
+            <a href="contact?f=affiliate" class="text-muted">Affiliate program</a>
+          </div>
+          <div class="col">
+            <span>Legal</span>
+            <a href="terms" class="text-muted">Terms</a>
+            <a href="privacy" class="text-muted">Privacy</a>
+            <a href="cookies" class="text-muted">Cookies</a>
+          </div>
+          <div class="col"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid pt-5 d-sm-none">
+    <div class="row">
+      <div class="col">
+        <div class="row">
+          <div class="col">
+            <span>About</span>
+            <a href="about" class="text-muted">Our story</a>
+            <a href="customers" class="text-muted">Our customers</a>
+            <a href="articles" class="text-muted">Articles</a>
+          </div>
+          <div class="col">
+            <span>Help</span>
+            <a href="supervisory-authorities" class="text-muted">Supervisory authorities</a>
+            <a href="gdpr#article27" class="text-muted">GDPR Article 27</a>
+            <a href="contact" class="text-muted">Contact us</a>
+            <a href="faq" class="text-muted">FAQ</a>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+            <span>Useful links</span>
+            <a href="contact" class="text-muted">Contact press</a>
+            <a href="contact" class="text-muted">Become a partner</a>
+            <a href="contact" class="text-muted">Affiliate program</a>
+          </div>
+          <div class="col">
+            <span>Socials</span>
+            <a href="https://medium.com/eudpr" class="text-muted">Medium</a>
+            <a href="https://linkedin.com/company/eudpr" target="_blank" class="text-muted">LinkedIn</a>
+            <a href="https://twitter.com/seamlessgdpr" target="_blank" class="text-muted">Twitter</a>
+            <a href="https://t.me/eudprnews" target="_blank" class="text-muted">Telegram</a>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+            <span>Legal</span>
+            <a href="terms" class="text-muted">Terms</a>
+            <a href="privacy" class="text-muted">Privacy</a>
+            <a href="cookies" class="text-muted">Cookies</a>
+          </div>
+          <div class="col"></div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+              <p class="text-muted mt-2">EUDPR is operated by real people with expertise in privacy, data protection and GDPR issues for Fintech and Regtech businesses.</p>
+              <p class="text-muted">Made in Paris with <i class="fas fa-heart" style="color:red"></i></p>
+          </div>
+      </div>
+    </div>
+  </div>
+</footer>

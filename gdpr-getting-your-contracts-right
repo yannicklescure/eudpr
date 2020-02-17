@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; GDPR — Getting your contracts right" />
+  <meta property="og:description" content="If you are lucky enough to be the sub contractor (or “processor” as the GDPR would say) for a large group based in Europe you will probably have been asked to work on the “remediation” of your existing contracts. Otherwise, if you haven’t yet looked into this subject, this is what you need to know." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://eudpr.com/gdpr-getting-your-contracts-right" />
+  <meta property="og:image" content="https://eudpr.com/media/adult-cheerful-clipboard-1089549.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@remywilders">
+  <meta name="twitter:title" content="GDPR — Getting your contracts right">
+  <meta name="twitter:description" content="If you are lucky enough to be the sub contractor (or “processor” as the GDPR would say) for a large group based in Europe you will probably have been asked to work on the “remediation” of your existing contracts. Otherwise, if you haven’t yet looked into this subject, this is what you need to know.">
+  <meta name="twitter:image" content="https://eudpr.com/media/adult-cheerful-clipboard-1089549.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.eudpr.com/icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/gdpr-getting-your-contracts-right" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27, brexit">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="article-sticky-share fixed-top d-none">
+    <ul class="list-unstyled">
+      <li><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="left" title="Share on Twitter">twitter</a></li>
+      <li><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="left" title="Share on Facebook">facebook</a></li>
+      <li><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="left" title="Share on LinkedIn">linkedin</a></li>
+      <li><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="left" title="Email this article">email</a></li>
+      <li><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="left" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+  <div class="container-text col-lg-8 mx-auto">
+    <img src="media/adult-cheerful-clipboard-1089549.png" class="img-fluid" alt="eudpr">
+    <h1 class="mt-5">GDPR — Getting your contracts right</h1>
+    <div class="row my-5">
+      <div class="d-inline col-lg-6">
+        <img src="https://eudpr.com/profile/rem.jpg" class="float-left rounded-circle mr-3" alt="RemyWilders" height="48">
+        <div>Remy Wilders<a href="https://twitter.com/RemyWilders" target="_blank"><i class="fab fa-twitter ml-1 text-dark"></i></a><a href="https://www.linkedin.com/in/remy-wilders-159320/" target="_blank"><i class="fab fa-linkedin ml-1 text-dark"></i></a><br /><span class="text-muted">April 7, 2019</span></div>
+      </div>
+      <div class="d-block pt-3 d-lg-none">&emsp;</div>
+      <div class="d-inline col-lg-6">
+        <audio controls>
+          <source src="media/audio_getting-your-contracts-right.ogg" type="audio/ogg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+    <p>If you are lucky enough to be the sub contractor (or “processor” as the GDPR would say) for a large group based in Europe you will probably have been asked to work on the “remediation” of your existing contracts. Otherwise, if you haven’t yet looked into this subject, this is what you need to know.</p>
+    <p>GDPR related remediation boils down to bringing two modifications to your existing contracts.</p>
+    <p>The first amendment regards the privacy related clauses which now need to follow the GDPR requirements. In a nutshell the contract will need to</p><ol class="postList"><li name="39eb" id="39eb" class="graf graf--li graf-after--p">clearly define the relationship between the different parties. This means to state whether the contractors are “shared controllers” or controllers and processors. The controllers are those who provide added value to the end users or the clients. The processors are the controllers’ sub contractors in regards to processing the personal data. When two parties are in a partnership for providing added value then they are said to be “shared controllers” (for instance a bank and an insurance are shared controllers when providing a loan). This is important because the GDPR imposes different interactions, between the contractors, in regards to this relationship. For instance, it is a compulsory for the processors to accept to be audited by the controllers.</li><li name="8515" id="8515" class="graf graf--li graf-after--li">define the rules for informing the other parties regarding a potential data breach</li><li name="a8e6" id="a8e6" class="graf graf--li graf-after--li">sometimes modify the liabilities in the case of a GDPR fine befalling the controller</li></ol>
+    <p>The second modification which will need to be applied to an existing contract will be to state</p>
+    <ul>
+      <li>the personal data being exchanged</li>
+      <li>to what purpose</li>
+      <li>what users are concerned</li>
+      <li>who will have access to this data</li>
+      <li>what type of processing is allowed</li>
+      <li>where will the data be stored</li>
+      <li>how long the data will be stored and for what reason</li>
+    </ul>
+    <p>Having said that, many companies may not be very comfortable at the idea of modifying an existing contract and this can be for at least two reasons.</p>
+    <p>The first may be that it was complicated to reach the agreement and that, by lifting up the hood again, there may be other aspects which will come back into discussion. That may not be a good idea.</p>
+    <p>The second reason can simply be because you have more than one contract signed with one of your corporate clients and modifying each contract will obviously be a hassle.</p>
+    <p>Fortunately there are different ways you can handle the remediation the first being, obviously, to modify the existing contract.</p>
+    <p>The second is to “amend” the existing contract. This means that a new contract is signed in which you simply indicate which clauses need to be modified and by what text. Doing that allows you to only focus on the privacy related clauses without displaying the whole contract.</p>
+    <p>Finally the third way to move forward is to sign a Data Privacy Agreement (DPA) which is a contract which focuses only on the privacy aspects of your contract. This agreement states that any past or future contract will abide by these new clauses. The big advantage with this DPA is that the existing contract or contracts do not need to be modified.</p>
+    <p>DPAs can also come in handy if your company works mainly with purchase orders as this unique contract can suffice to cover the GDPR requirements.</p>
+    <p>When there are more than one contract and that the categories of personal data being processed can varie from one contract to the next, an additional contract will need be prepared and signed to state what data is being processed, by whom and to what purpose.</p>
+    <p>And that is about it. Just one last word regarding your new contracts. All that has been said above obviously needs to be taken into account so it is worth having a GDPR compliant model that you can use.</p>
+    <p>To wrap things up I’ll simply add that, as it has nearly been a year since the GDPR has been rolled out, there are best practices which can be tapped into. It is therefore worth talking to your lawyers or partners such as EUDPR for getting things right.</p>
+    <hr>
+    <p class="my-3 text-left">Article published on <a href="https://medium.com/eudpr" target="_blank">Medium</a><!-- and <a href="https://irishtechnews.ie/coming-soon-the-gdpr-easter-egg/" target="_blank">IrishTechNews</a>--></p>
+  </div>
+  <!--<div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col-6 d-block d-inline text-left">
+      <a class="" href="#">&laquo; Previous</a>
+    </div>
+    <div class="col-6 d-block d-inline text-right">
+      <a class="" href="#">Next &raquo;</a>
+    </div>
+  </div>-->
+  <div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col d-block d-inline text-left">
+      <a class="text-dark" href="gdpr-you-dont-own-me">Next article: <em>GDPR — You don’t own me</em></a><br />
+      <a class="text-dark" href="gdpr-e-survival">Previous article: <em>GDPR — e-Survival</em></a>
+    </div>
+  </div>
+  <div class="article-bottom-share text-center mt-5">
+    <h2>Share This</h2>
+    <p class="text-muted">Share this article with your friends!</p>
+    <ul class="list-inline">
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="top" title="Share on Twitter">twitter</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="top" title="Share on Facebook">facebook</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="top" title="Share on LinkedIn">linkedin</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="top" title="Email this article">email</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="top" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

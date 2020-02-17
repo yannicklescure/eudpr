@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /images/
+Disallow: /signin
+Disallow: /signup-agreement
+Disallow: /payment
+Disallow: /thankyou
+Disallow: /changelog

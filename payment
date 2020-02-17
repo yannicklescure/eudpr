@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Payment" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/payment" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Payment">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/payment" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1>Payment Form</h1>
+  <p class="lead">GDPR Article 27 Representative Services</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <div class="form-group">
+      <input type="hidden" name="cmd" value="_xclick-subscriptions">
+      <input type="hidden" name="business" value="billing@eudpr.com">
+      <input type="hidden" name="item_name" value="EUDPR Article 27 Representative Services">
+      <!--<input type="hidden" name="return" value="https://app.hellosign.com/s/692d28b0">-->
+      <input type="hidden" name="return" value="https://eudpr.com/thankyou">
+    </div>
+    <div class="form-group">
+      <label>Company Size</label>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="company-size-input" id="companySize0" value="Blogger">
+        <label class="form-check-label" for="companySize0">
+          Blogger
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="company-size-input" id="companySize1" value="Micro Enterprise" checked>
+        <label class="form-check-label" for="companySize1">
+          Micro Enterprise
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="company-size-input" id="companySize2" value="Small Enterprise">
+        <label class="form-check-label" for="companySize2">
+          Small Enterprise
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="company-size-input" id="companySize3" value="Medium-sized Enterprise">
+        <label class="form-check-label" for="companySize3">
+          Medium-sized Enterprise
+        </label>
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Pricing Option</label>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="billing-input" id="Billing1" value="Monthly Billing" checked>
+        <label class="form-check-label" for="Billing1">
+          Monthly Billing
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="billing-input" id="Billing2" value="Annual Billing">
+        <label class="form-check-label" for="Billing2">
+          Annual Billing
+        </label>
+      </div>
+    </div>
+    <div class="form-group">
+      <input type="submit" class="btn btn-primary collapse show" value="Subscribe">
+      <button class="btn btn-primary collapse" type="button" disabled>
+        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        Loading...
+      </button>
+    </div>
+  </form>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+<script src="jq-payment.js"></script>
+</body>
+</html>

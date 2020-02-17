@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; About us" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/about" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; About us">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/about" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="my-5">
+    <h1>Our story</h1>
+    <p>Remy Wilders, Jan Vailhé, and Yannick Lescure are EUDPR’s  three founders. Each one of them are highly specialized in their respective industries: Banking, Data Privacy, and Project Management. In 2018, they worked together on solving KYC issues for cryptocurrencies distribution and business assets tokenization.</p>
+    <p>Realizing that KYC is a small aspect of businesses and customers data protection, they joined to open the spectre of their expertises into the whole personal data protection scope. EUDPR (European Union Data Protection Representatives) is a partnership that provides GDPR services for non-European and European businesses with a goal to make GDPR seamless for its customers.</p>
+  </div>
+  <div class="my-5">
+    <h1>The Founders</h1>
+    <!-- REMY WILDERS -->
+    <div class="row pt-3">
+      <div class="float-left mx-3 w-100">
+        <img src="profile/rw_1.png" class="float-left mb-3 mr-3 d-lg-none" alt="RemyWilders" width="100">
+        <img src="profile/rw_1.png" class="float-left mb-3 mr-3 d-none d-lg-block" alt="RemyWilders">
+        <h5 class="mt-0"><b>Remy Wilders</b>&nbsp;<a href="https://twitter.com/RemyWilders" target="_blank" class="fab fa-twitter"></a>&nbsp;<a href="https://linkedin.com/in/remy-wilders-159320/" target="_blank" class="fab fa-linkedin"></a></h5>
+        <p>With more than 20 years of experience Remy brings an in depth understanding of the banking industry regarding business, regulations, communication and customer data management. Remy also co-founded, in 1999, Bantry Technologies an Irish smart card company which was later bought by Trusted Logic in 2003.</p>
+        <div class="float-left mr-3">
+          <h5>Education</h5>
+          <p><b>ISMRA & University of Canterbury</b><br >MS</p>
+          <p><b>University of Caen</b><br />MBA</p>
+        </div>
+        <div class="float-left">
+          <h5>Activities & Affiliations</h5>
+          <ul class="list-unstyled">
+           <li>Banking Consultant, Apside</li>
+           <li>Compliance Director, CLRS</li>
+           <li>Fintech Advisor</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- JAN VAIHLE -->
+    <div class="row pt-3">
+      <div class="float-left mx-3 w-100">
+        <img src="profile/jv_2.png" class="float-left mb-3 mr-3 d-lg-none" alt="JanVailhe" width="100">
+        <img src="profile/jv_2.png" class="float-left mb-3 mr-3 d-none d-lg-block" alt="JanVailhe">
+        <h5 class="mt-0"><b>Jan Vailhé</b>&nbsp;<a href="https://twitter.com/janvailhe" target="_blank" class="fab fa-twitter"></a>&nbsp;<a href="https://linkedin.com/in/janvailhe" target="_blank" class="fab fa-linkedin"></a></h5>
+        <p>Experienced in content management and research, he has worked in the media industry for more than 12 years. His  attention has focused from competitive intelligence and informational risks to privacy issues and security awareness, along with AML and KYC regulation in the blockchain and crypto-assets industry.</p>
+        <div class="float-left mr-3">
+          <h5>Education</h5>
+          <p><b>Université de Montréal</b><br >Cyberfraud certificate</p>
+          <p><b>Sciences Po</b><br />Master Political Science and Journalism</p>
+        </div>
+        <div class="float-left">
+          <h5>Activities & Affiliations</h5>
+          <ul class="list-unstyled">
+            <li>Founding member and secretary<br />Sciences Po Canada</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Yannick Lescure -->
+    <div class="row pt-3">
+      <div class="float-left mx-3 w-100">
+        <img src="profile/yl_2.png" class="float-left mb-3 mr-3 d-lg-none" alt="YannickLescure" width="100">
+        <img src="profile/yl_2.png" class="float-left mb-3 mr-3 d-none d-lg-block" alt="YannickLescure">
+        <h5 class="mt-0"><b>Yannick Lescure</b>&nbsp;<a href="https://twitter.com/YannickLescure" target="_blank" class="fab fa-twitter"></a>&nbsp;<a href="https://linkedin.com/in/YannickLescure/" target="_blank" class="fab fa-linkedin"></a></h5>
+        <p>Yannick focuses on the various facets of data privacy that revolve around finance and regulations technology (FinTech and RegTech), whether that’s trading utilities or negotiating distribution agreements. Prior to found EUDPR, he has been working in the several industries for over 20 years which makes him a polyvalent asset. He is proactive, adaptable to changing needs, and a strategic thinker.</p>
+        <div class="float-left mr-3">
+          <h5>Education</h5>
+          <p><b>Cergy-Pontoise University</b><br >Master Sciences</p>
+        </div>
+        <div class="float-left">
+          <h5>Activities & Affiliations</h5>
+          <ul class="list-unstyled">
+            <li>Various experiences in <br />Public, Private, and PPP projects</li>
+            <li>Entrepreneurship Advisor, CLRS</li>
+            <li>Public Relations</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

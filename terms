@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Terms of Use" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/terms" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Terms of Use">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/terms" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1><i class="fas fa-file-contract"></i> Terms of Use</h1>
+  <div class="small">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="legal">EUDPR &bull; Legal</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Terms of Use</li>
+      </ol>
+    </nav>
+  </div>
+  <div class="pt-3">
+    <p class="lead text-muted">By accessing or using this website you are agreeing to the terms of use as follows. If you do not agree with these terms of use you should immediately leave this website and you should not revisit it.</p>
+    <p><em>Disclaimer: The following translation is provided for your convenience only. Only the original French document of the respective Legal Mentions is legally binding. This applies to all of our legal documents.</em></p>
+    <ol>
+      <li>The <a href="privacy">Privacy Statement</a> contained on this website forms part of and is hereby incorporated into these terms of use.</li>
+      <li>By using this website you acknowledge we are not lawyers or legal advisers and that we are not offering to provide legal or other advice or legal services to you or any other party.  You are solely responsible for compliance with your legal obligations and with compliance with the data protection and GDPR requirements in particular.  Any decisions taken by you in relation to such compliance are entirely a matter for you.</li>
+      <li>Information, documentation and downloads available on this website are intended for general guidance only. They are not, and cannot be relied upon as if they were, legal or professional advice.  If you use any information, documentation or downloads available on this website you do so entirely at your own risk.  If you require legal advice on any issue or in relation to any matter touched upon on our website please consult a lawyer. We exclude to the fullest extent permitted by law all liability for loss or damage howsoever arising out of the use of our website or our email subscription messages or any information, documentation or downloads provided via any of these sources or reliance on the contents of any of them.</li>
+      <li>Submission of an enquiry via this website or by email or subscription to our email database or accessing information, documentation or downloads from this website shall not give rise to any professional relationship between you and us at any stage.</li>
+      <li>You agree that you will not arrange for any other website to be connected to any part of our website without our prior consent in writing.</li>
+      <li>From time to time our website may include links to other websites. These links are provided for your convenience only. The existence of a link does not signify that we endorse either the third party, their website, or its content (or any of them), and we shall have no responsibility for any of them.</li>
+      <li>EUDPR are the owner of the copyright in the content of our site which shall include the layout and text as well as the general “look and feel” of our website and any unauthorized copying or reproduction of any aspect of our website or any part of it is strictly prohibited (except to such extent permitted by law, if any).</li>
+      <li>Except where otherwise stated, legal content on this website is based on the laws of France. Our website and its use is governed by the law of France and the french courts shall have exclusive jurisdiction over any disputes connected to it.</li>
+      <li>We may change our terms at our discretion and without notice. By continuing to use our website you accept our terms as displayed on our website and you acknowledge your obligation to revisit these terms of use periodically to apprise yourself of any changes.  If you do not agree with our terms, please discontinue the use of our site immediately, unsubscribe from our email database and delete any information, documentation or downloads from your system that you may have accessed from either of these sources.</li>
+    </ol>
+  </div>
+</div>
+
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

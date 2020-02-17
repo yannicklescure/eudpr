@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<div id="navHTML0">
+  <nav id="navbarHTML" class="navbar fixed-top navbar-light navbar-expand-md bg-light">
+    <span class="navbar-brand mb-0 h1">
+      <a class="navbar-brand" href="">
+        <!--<img src="logo60-light.png" alt="Logo">-->
+        <div class="logo60 logo60-light">
+          <p>European Union<br />Data Protection<br />Representatives</p>
+        </div>
+      </a>
+    </span>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!--<div class="collapse navbar-collapse" id="navbar1">-->
+    <div class="collapse navbar-collapse d-none d-md-block" id="navbar1"> <!-- desactivate le menu on smartphone-->
+      <ul class="navbar-nav">
+        <li id="pricing" class="nav-item">
+          <a class="nav-link" href="articles">Articles</a>
+        </li>
+        <li class="nav-item dropdown d-none d-md-block">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Product <i class="fas fa-angle-down"></i></a>
+          <div class="dropdown-menu border-0">
+            <a class="dropdown-item" href="blogger">
+              <table class="table-borderless">
+                <tr>
+                  <td class="container-image"><i class="fas fa-blog"></i></td>
+                  <td class="space"></td>
+                  <td>
+                    <div><strong>Blogger</strong></div>
+                    <div>Up to 5 employees</div>
+                  </td>
+                </tr>
+              </table>
+            </a>
+            <a class="dropdown-item" href="micro">
+              <table class="table-borderless">
+                <tr>
+                  <td class="container-image"><i class="fas fa-user"></i></td>
+                  <td class="space"></td>
+                  <td>
+                    <div><strong>Micro Enterprise</strong></div>
+                    <div>Up to 10 employees</div>
+                  </td>
+                </tr>
+              </table>
+            </a>
+            <a class="dropdown-item" href="small">
+              <table class="table-borderless">
+                <tr>
+                  <td class="container-image"><i class="fas fa-user-friends"></i></td>
+                  <td class="space"></td>
+                  <td>
+                    <div><strong>Small Enterprise</strong></div>
+                    <div>Up to 50 employees</div>
+                  </td>
+                </tr>
+              </table>
+            </a>
+            <a class="dropdown-item" href="medium-sized">
+              <table class="table-borderless">
+                <tr>
+                  <td class="container-image"><i class="fas fa-users"></i></td>
+                  <td class="space"></td>
+                  <td>
+                    <div><strong>Medium-sized Enterprise</strong></div>
+                    <div>Up to 250 employees</div>
+                  </td>
+                </tr>
+              </table>
+            </a>
+          </div>
+        </li>
+        <li id="pricing" class="nav-item">
+          <a class="nav-link" href="pricing">Pricing</a>
+        </li>
+        <li id="gdpr" class="nav-item d-none d-md-block">
+          <a class="nav-link" href="gdpr">GDPR</a>
+        </li>
+        <li id="gdpr" class="nav-item d-md-none">
+          <a class="nav-link" href="gdpr">EU GDPR Text</a>
+        </li>
+        <li id="supervisory-authorities" class="nav-item d-md-none">
+          <a class="nav-link" href="supervisory-authorities">Data Protection Supervisory Authorities</a>
+        </li>
+        <li class="nav-item dropdown d-md-none">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Product <i class="fas fa-angle-down"></i></a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item mb-2" href="blogger">Blogger</a>
+            <a class="dropdown-item mb-2" href="micro">Micro Enterprise</a>
+            <a class="dropdown-item my-2" href="small">Small Enterprise</a>
+            <a class="dropdown-item mt-2" href="medium-sized">Medium-sized Enterprise</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown d-md-none">
+          <a class="nav-link" href="signup">Open an account</a>
+        </li>
+      </ul>
+      <div class="navbar-nav ml-auto d-none d-md-block">
+        <div class="nav-item d-flex flex-row">
+          <a class="nav-link mr-2" href="clientspace">Log in</a>
+          <a class="btn btn-primary"href="signup" >Open an account</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div class="progress" style="height: 2px; background-color: transparent">
+    <div class="progress-bar" role="progressbar" style="width: 0;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+  </div>
+</div>

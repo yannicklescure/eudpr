@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; GDPR — e-Survival" />
+  <meta property="og:description" content="The GDPR is all about protecting European Citizens. The root idea is that each user owns his personal data which he can trust to ..." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://eudpr.com/gdpr-e-survival" />
+  <meta property="og:image" content="https://eudpr.com/media/blurred-background-fashion-golden-hour-935019.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@remywilders">
+  <meta name="twitter:title" content="GDPR — e-Survival">
+  <meta name="twitter:description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="twitter:image" content="https://eudpr.com/media/blurred-background-fashion-golden-hour-935019.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.eudpr.com/icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/gdpr-e-survival" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27, brexit">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <div class="article-sticky-share fixed-top d-none">
+    <ul class="list-unstyled">
+      <li><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="left" title="Share on Twitter">twitter</a></li>
+      <li><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="left" title="Share on Facebook">facebook</a></li>
+      <li><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="left" title="Share on LinkedIn">linkedin</a></li>
+      <li><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="left" title="Email this article">email</a></li>
+      <li><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="left" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+  <div class="container-text col-lg-8 mx-auto">
+    <img src="media/blurred-background-fashion-golden-hour-935019.png" class="img-fluid" alt="eudpr">
+    <h1 class="mt-5">GDPR — e-Survival</h1>
+    <div class="row my-5">
+      <div class="d-inline col-lg-6">
+        <img src="https://eudpr.com/profile/rem.jpg" class="float-left rounded-circle mr-3" alt="RemyWilders" height="48">
+        <div>Remy Wilders<a href="https://twitter.com/RemyWilders" target="_blank"><i class="fab fa-twitter ml-1 text-dark"></i></a><a href="https://www.linkedin.com/in/remy-wilders-159320/" target="_blank"><i class="fab fa-linkedin ml-1 text-dark"></i></a><br /><span class="text-muted">March 29, 2019</span></div>
+      </div>
+      <div class="d-block pt-3 d-lg-none">&emsp;</div>
+      <div class="d-inline col-lg-6">
+        <audio controls>
+          <source src="media/audio_e-survival.ogg" type="audio/ogg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+    <p>The GDPR is all about protecting European Citizens. The root idea is that each user owns his personal data which he can trust to companies. In turn the companies can process this data and create value both for the user and, in some instances, for all the other users. The GDPR sets the rules for avoiding abuses and accidents. One could say that “digital wise” a user exists solely by his personal data. Abuse these data, alter them or destroy them and the user’s “digital” existence is in jeopardy. So in a way the GDPR could be seen as protecting the “e-Human Rights”.</p>
+    <p>But what are these personal data that the GDPR is trying to protect? Well, in fact, any data which can be linked to a specific individual is considered as being personal data. Obviously all the identifying data, such as the first and last name, the email address, an IP address, a phone number, an identity card, a photo or even a home address, are all personal data but any data which is linked to some identifying data is also considered as being personal data. It makes sense that a date of birth or the color of one’s eyes is personal but the notion within the GDPR goes way beyond that. Any information which can be linked to a given person is within the scope. As an example, if you find a photo of a sunset on the internet and that you can trace it back to its author, or even a simple IP address, the photo is considered as personal data.</p>
+    <p>One can collect personal data without really being aware of it. Lets imagine that Ernie is botanist and that he loves taking photos of trees and flowers around the neighborhood to post it on the internet. As he is in a village he provides the address where he took each photo. For instance Ernie discovered this incredible beach tree just outside 22, slumberland road. Without knowing it Ernie would be publishing personal data because a home address can, in some cases, be linked to a single person and the beach tree can therefore be considered as personal information. This is, of course, an extreme example for the purpose of emphasis and I strongly doubt that a Data Protection Authority would have anything to say against Ernie.</p>
+    <p>This may seem to be somewhat of an overkill but is it really? I remember working on an AI project for recognizing signatures. The idea was to identify a signature whilst the user was signing. What we had discovered was that, when somebody signs, there is the signature itself but also specific movements of the pen above the paper. These movements could not be easily copied and were therefore a way for certifying the signature. The point being that we are all a lot more than meets the eye. We are each defined by the direct information relating to us but also by a lot of indirect information such as, maybe, the trees and the flowers growing around the place we live.</p>
+    <p>E-profiling has taught us how easy it has become to predict and influence behavior. The more we have information provided to these systems and the more accurate and powerful they will become. Providing access to personal information can literally turn out to be exposing our freedom. It is for this reason that regulations such as GDPR are essential. Their aim is to help users benefit from a transparent use of their personal data. Each company needs to clearly communicate on what data they need, why, how long they will be storing it and to whom they will be transferring it to. In addition to this any data breach needs to be declared within 72 hours in order to be able to act as quickly as possible. Fines are huge for companies which don’t comply. Our freedom depends on this.</p>
+    <p>Wherever we live around the world we should insist that our governments defend and protect our rights. Privacy laws will be ever more important with AI which will be feeding on any data it can get to. Users should really stay away from companies which can not prove its compliance with privacy regulation such as the GDPR. Really.</p>
+    <hr>
+    <p class="my-3 text-left">Article published on <a href="https://medium.com/eudpr" target="_blank">Medium</a><!-- and <a href="https://irishtechnews.ie/coming-soon-the-gdpr-easter-egg/" target="_blank">IrishTechNews</a>--></p>
+  </div>
+  <!--<div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col-6 d-block d-inline text-left">
+      <a class="" href="#">&laquo; Previous</a>
+    </div>
+    <div class="col-6 d-block d-inline text-right">
+      <a class="" href="#">Next &raquo;</a>
+    </div>
+  </div>-->
+  <div class="row col-lg-8 mx-auto" style="padding:0">
+    <div class="col d-block d-inline text-left">
+      <a class="text-dark" href="gdpr-getting-your-contracts-right">Next article: <em>GDPR — Getting your contracts right</em></a><br />
+      <a class="text-dark" href="gdpr-what-to-expect-from-your-eu-representative">Previous article: <em>GDPR — What to expect from your EU Representative</em></a>
+    </div>
+  </div>
+  <div class="article-bottom-share text-center mt-5">
+    <h2>Share This</h2>
+    <p class="text-muted">Share this article with your friends!</p>
+    <ul class="list-inline">
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-twitter-share" data-toggle="tooltip" data-placement="top" title="Share on Twitter">twitter</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-facebook-share" data-toggle="tooltip" data-placement="top" title="Share on Facebook">facebook</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-linkedin-share" data-toggle="tooltip" data-placement="top" title="Share on LinkedIn">linkedin</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-email-share" data-toggle="tooltip" data-placement="top" title="Email this article">email</a></li>
+      <li class="list-inline-item"><a href="JavaScript:void(0);" id="article-link-share" data-toggle="tooltip" data-placement="top" title="Copy to clipboard">link</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>

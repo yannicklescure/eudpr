@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130169086-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130169086-1');
+  </script>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="IWDBKKugImBVx1AD9SfDKr-EjmE6DK_-jzIrjcc_6r0" />
+  <meta name="description" content="Article 27 of GDPR requires non-EU companies to appoint a Data Protection Representative in the EU. Got a minute? Click on those blue words up there to get started.">
+  <meta name="robots" content="index, follow">
+  <title>EUDPR &bull; European Union Data Protection Representatives</title>
+  <meta property="og:title" content="EUDPR &bull; Supervisory Authorities" />
+  <meta property="og:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="EUDPR (European Union Data Protection Representatives)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eudpr.com/supervisory-authorities" />
+  <meta property="og:image" content="https://eudpr.com/media/flag.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@seamlessgdpr">
+  <meta name="twitter:creator" content="@yannicklescure">
+  <meta name="twitter:title" content="EUDPR &bull; Supervisory Authorities">
+  <meta name="twitter:description" content="See how GDPR can turn out to be a great opportunity for your company. Discover the GDPR easter egg and set officially a foot in Europe.">
+  <meta name="twitter:image" content="https://eudpr.com/media/flag.png">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.png">
+  <link rel="canonical" href="https://www.eudpr.com/supervisory-authorities" />
+  <meta name="keywords" content="gdpr, data protection, european union, article 27">
+  <meta name="author" content="EUDPR">
+  <link rel="publisher" href="https://www.eudpr.com/" />
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="custom.css">
+</head>
+
+<body data-spy="scroll" data-target=".sidebarLeft" data-offset="96">
+
+<div id="navHTML"></div><div id="sidenav"></div>
+
+<div id="section-start" class="container my-5">
+  <h1>EU Data Protection Supervisory Authorities</h1>
+</div>
+<div class="container my-5">
+  <div class="row">
+    <div id="sidebarPosition" class="col-md-2">
+      <div class="sidebarLeft sticky-top d-none d-md-block">
+        <ul  class="nav nav-pills flex-column list-unstyled">
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Europe">Europe</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Austria">Austria</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Belgium">Belgium</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Bulgaria">Bulgaria</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Croatia">Croatia</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Cyprus">Cyprus</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Czech-Republic">Czech Republic</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Denmark">Denmark</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Estonia">Estonia</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Finland">Finland</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-France">France</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Germany">Germany</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Greece">Greece</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Hungary">Hungary</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Ireland">Ireland</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Italy">Italy</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Latvia">Latvia</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Lithuania">Lithuania</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Luxembourg">Luxembourg</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Malta">Malta</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Netherlands">Netherlands</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Poland">Poland</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Portugal">Portugal</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Romania">Romania</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Slovakia">Slovakia</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Slovenia">Slovenia</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Spain">Spain</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-Sweden">Sweden</a></li>
+          <li class="nav-item"><a class="nav-link article-link" href="#eu-United-Kingdom">United Kingdom</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="countries col">
+      <div class="country col" id="eu-Europe">
+        <div class="row">
+          <h2>Europe</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>European Data Protection Supervisor</li>
+            <li><a href="https://edps.europa.eu/" target="_blank">edps.europa.eu</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Rue Wiertz 60</li>
+            <li>1047 Bruxelles/Brussel</li>
+            <li><strong>Phone:&nbsp;</strong>32 2 283 19 00</li>
+            <li><strong>Fax:&nbsp;</strong>32 2 283 19 50</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:edps@edps.europa.eu">edps@edps.europa.eu</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Austria">
+        <div class="row">
+          <h2>Austria</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Österreichische Datenschutzbehörde</li>
+            <li><a href="http://www.dsb.gv.at/" target="_blank">www.dsb.gv.at</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Hohenstaufengasse 3</li>
+            <li>1010 Wien</li>
+            <li><strong>Phone:&nbsp;</strong>43 1 531 15 202525</li>
+            <li><strong>Fax:&nbsp;</strong>43 1 531 15 202690</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:dsb@dsb.gv.at">dsb@dsb.gv.at</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Belgium">
+        <div class="row">
+          <h2>Belgium</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Commission de la protection de la vie privée</li>
+            <li><a href="http://www.privacycommission.be/" target="_blank">www.privacycommission.be</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Rue de la Presse 35</li>
+            <li>1000 Bruxelles</li>
+            <li><strong>Phone:&nbsp;</strong>32 2 274 48 00</li>
+            <li><strong>Fax:&nbsp;</strong>32 2 274 48 10</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:commission@privacycommission.be">commission@privacycommission.be</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Bulgaria">
+        <div class="row">
+          <h2>Bulgaria</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Commission for Personal Data Protection</li>
+            <li><a href="http://www.cpdp.bg/" target="_blank">www.cpdp.bg</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>2, Prof. Tsvetan Lazarov blvd.</li>
+            <li>Sofia 1592</li>
+            <li><strong>Phone:&nbsp;</strong>359 2 915 3523</li>
+            <li><strong>Fax:&nbsp;</strong>359 2 915 3525</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:kzld@cpdp.bg">kzld@cpdp.bg</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Croatia">
+        <div class="row">
+          <h2>Croatia</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Croatian Personal Data Protection Agency</li>
+            <li><a href="http://www.azop.hr/" target="_blank">www.azop.hr</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Martićeva 14</li>
+            <li>10000 Zagreb</li>
+            <li><strong>Phone:&nbsp;</strong>385 1 4609 000</li>
+            <li><strong>Fax:&nbsp;</strong>385 1 4609 099</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@azop.hr">info@azop.hr</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Cyprus">
+        <div class="row">
+          <h2>Cyprus</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Commissioner for Personal Data Protection</li>
+            <li><a href="http://www.dataprotection.gov.cy/" target="_blank">www.dataprotection.gov.cy</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>1 Iasonos Street, 1082 Nicosia</li>
+            <li>P.O. Box 23378, CY-1682 Nicosia</li>
+            <li><strong>Phone:&nbsp;</strong>357 22 818 456</li>
+            <li><strong>Fax:&nbsp;</strong>357 22 304 565</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:commissioner@dataprotection.gov.cy">commissioner@dataprotection.gov.cy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Czech-Republic">
+        <div class="row">
+          <h2>Czech Republic</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>The Office for Personal Data Protection</li>
+            <li><a href="http://www.uoou.cz/" target="_blank">www.uoou.cz</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Urad pro ochranu osobnich udaju	Pplk.</li>
+            <li>Sochora 27, 170 00 Prague 7</li>
+            <li><strong>Phone:&nbsp;</strong>420 234 665 111</li>
+            <li><strong>Fax:&nbsp;</strong>420 234 665 444</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:posta@uoou.cz">posta@uoou.cz</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Denmark">
+        <div class="row">
+          <h2>Denmark</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Datatilsynet</li>
+            <li><a href="http://www.datatilsynet.dk/" target="_blank">www.datatilsynet.dk</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Borgergade 28, 5</li>
+            <li>1300 Copenhagen K</li>
+            <li><strong>Phone:&nbsp;</strong>45 33 1932 00</li>
+            <li><strong>Fax:&nbsp;</strong>45 33 19 32 18</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:dt@datatilsynet.dk">dt@datatilsynet.dk</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Estonia">
+        <div class="row">
+          <h2>Estonia</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon)</li>
+            <li><a href="http://www.aki.ee/en" target="_blank">www.aki.ee</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Väike-Ameerika 19</li>
+            <li>10129 Tallinn</li>
+            <li><strong>Phone:&nbsp;</strong>372 6274 135</li>
+            <li><strong>Fax:&nbsp;</strong>372 6274 137</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@aki.ee">info@aki.ee</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Finland">
+        <div class="row">
+          <h2>Finland</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Office of the Data Protection Ombudsman</li>
+            <li><a href="http://www.tietosuoja.fi/en/" target="_blank">www.tietosuoja.fi</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>P.O. Box 315</li>
+            <li>FIN-00181 Helsinki</li>
+            <li><strong>Phone:&nbsp;</strong>358 10 3666 700</li>
+            <li><strong>Fax:&nbsp;</strong>358 10 3666 735</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:tietosuoja@om.fi">tietosuoja@om.fi</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-France">
+        <div class="row">
+          <h2>France</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Commission Nationale de l'Informatique et des Libertés - CNIL</li>
+            <li><a href="http://www.cnil.fr/" target="_blank">www.cnil.fr</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>8 rue Vivienne, CS 30223</li>
+            <li>F-75002 Paris, Cedex 02</li>
+            <li><strong>Phone:&nbsp;</strong>33 1 53 73 22 22</li>
+            <li><strong>Fax:&nbsp;</strong>33 1 53 73 22 00</li>
+            <!--<li><strong>Email:&nbsp;</strong><a href="mailto:text">text</a></li>-->
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Germany">
+        <div class="row">
+          <h2>Germany</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit</li>
+            <li><a href="http://www.bfdi.bund.de/" target="_blank">www.bfdi.bund.de</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Husarenstraße 30</li>
+            <li>53117 Bonn</li>
+            <li><strong>Phone:&nbsp;</strong>49 228 997799 0</li>
+            <li><strong>Fax:&nbsp;</strong>49 228 997799 550</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:poststelle@bfdi.bund.de">poststelle@bfdi.bund.de</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Greece">
+        <div class="row">
+          <h2>Greece</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Hellenic Data Protection Authority</li>
+            <li><a href="http://www.dpa.gr/" target="_blank">www.dpa.gr</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Kifisias Av. 1-3, PC 11523</li>
+            <li>Ampelokipi Athens</li>
+            <li><strong>Phone:&nbsp;</strong>30 210 6475 600</li>
+            <li><strong>Fax:&nbsp;</strong>30 210 6475 628</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:contact@dpa.gr">contact@dpa.gr</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Hungary">
+        <div class="row">
+          <h2>Hungary</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Data Protection Commissioner of Hungary</li>
+            <li><a href="http://www.naih.hu/" target="_blank">www.naih.hu</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Szilágyi Erzsébet fasor 22/C</li>
+            <li>H-1125 Budapest</li>
+            <li><strong>Phone:&nbsp;</strong>36 1 3911 400</li>
+            <!--<li><strong>Fax:&nbsp;</strong>text</li>-->
+            <li><strong>Email:&nbsp;</strong><a href="mailto:peterfalvi.attila@naih.hu">peterfalvi.attila@naih.hu</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="country col" id="eu-Ireland">
+        <div class="row">
+          <h2>Ireland</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Data Protection Commissioner</li>
+            <li><a href="http://www.dataprotection.ie/" target="_blank">www.dataprotection.ie</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Canal House Station Road</li>
+            <li>Portarlington, Co. Laois</li>
+            <li><strong>Phone:&nbsp;</strong>Lo Call 1890 25 22 31 / 353 57 868 4800</li>
+            <li><strong>Fax:&nbsp;</strong>353 57 868 4757</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@dataprotection.ie">info@dataprotection.ie</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="country col" id="eu-Italy">
+        <div class="row">
+          <h2>Italy</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Garante per la protezione dei dati personal</li>
+            <li><a href="http://www.garanteprivacy.it/" target="_blank">www.garanteprivacy.it</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Piazza di Monte Citorio, 121</li>
+            <li>00186 Roma</li>
+            <li><strong>Phone:&nbsp;</strong>39 06 69677 1</li>
+            <li><strong>Fax:&nbsp;</strong>39 06 69677 785	</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:garante@garanteprivacy.it	">garante@garanteprivacy.it	</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="country col" id="eu-Latvia">
+        <div class="row">
+          <h2>Latvia</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Data State Inspectorate</li>
+            <li><a href="http://www.dvi.gov.lv/" target="_blank">www.dvi.gov.lv</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Blaumana str. 11/13-15</li>
+            <li>1011 Riga</li>
+            <li><strong>Phone:&nbsp;</strong>371 6722 3131</li>
+            <li><strong>Fax:&nbsp;</strong>371 6722 3556</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@dvi.gov.lv">info@dvi.gov.lv</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Lithuania">
+        <div class="row">
+          <h2>Lithuania</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>State Data Protectio</li>
+            <li><a href="http://www.ada.lt/" target="_blank">www.ada.lt</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Žygimantų str. 11-6a</li>
+            <li>011042 Vilnius</li>
+            <li><strong>Phone:&nbsp;</strong>370 5 279 14 45</li>
+            <li><strong>Fax:&nbsp;</strong>370 5 261 94 94</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:ada@ada.lt">ada@ada.lt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Luxembourg">
+        <div class="row">
+          <h2>Luxembourg</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Commission Nationale pour la Protection des Données</li>
+            <li><a href="http://www.cnpd.lu/" target="_blank">www.cnpd.lu</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>1, avenue du Rock’n’Roll</li>
+            <li>L-4361 Esch-sur-Alzette</li>
+            <li><strong>Phone:&nbsp;</strong>352 2610 60 1</li>
+            <li><strong>Fax:&nbsp;</strong>352 2610 60 29</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@cnpd.lu">info@cnpd.lu</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Malta">
+        <div class="row">
+          <h2>Malta</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Office of the Data Protection Commissioner</li>
+            <li><a href="http://www.dataprotection.gov.mt/" target="_blank">www.dataprotection.gov.mt</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>2, Airways House</li>
+            <li>High Street, Sliema SLM 1549</li>
+            <li><strong>Phone:&nbsp;</strong>356 2328 7100</li>
+            <li><strong>Fax:&nbsp;</strong>356 2328 7198</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:commissioner.dataprotection@gov.mt">commissioner.dataprotection@gov.mt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Netherlands">
+        <div class="row">
+          <h2>Netherlands</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Autoriteit Persoonsgegevens</li>
+            <li><a href="https://autoriteitpersoonsgegevens.nl/nl" target="_blank">autoriteitpersoonsgegevens.nl</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Prins Clauslaan 60 / P.O. Box 93374</li>
+            <li>2509 AJ Den Haag/The Hague</li>
+            <li><strong>Phone:&nbsp;</strong>31 70 888 8500</li>
+            <li><strong>Fax:&nbsp;</strong>31 70 888 8501</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:info@autoriteitpersoonsgegevens.nl">info@autoriteitpersoonsgegevens.nl</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Poland">
+        <div class="row">
+          <h2>Poland</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>The Bureau of the Inspector General for the Protection of Personal Data - GIODO</li>
+            <li><a href="http://www.giodo.gov.pl/" target="_blank">www.giodo.gov.pl</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>ul. Stawki 2</li>
+            <li>00-193 Warsaw</li>
+            <li><strong>Phone:&nbsp;</strong>48 22 53 10 440</li>
+            <li><strong>Fax:&nbsp;</strong>48 22 53 10 441</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:kancelaria@giodo.gov.pl">kancelaria@giodo.gov.pl</a></li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:desiwm@giodo.gov.pl">desiwm@giodo.gov.pl</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Portugal">
+        <div class="row">
+          <h2>Portugal</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Comissão Nacional de Protecção de Dados - CNPD</li>
+            <li><a href="http://www.cnpd.pt/" target="_blank">www.cnpd.pt</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>R. de São. Bento, 148-3°</li>
+            <li>1200-821 Lisboa</li>
+            <li><strong>Phone:&nbsp;</strong>351 21 392 84 00</li>
+            <li><strong>Fax:&nbsp;</strong>351 21 397 68 32</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:geral@cnpd.pt">geral@cnpd.pt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Romania">
+        <div class="row">
+          <h2>Romania</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>The National Supervisory Authority for Personal Data Processing</li>
+            <li><a href="http://www.dataprotection.ro/" target="_blank">www.dataprotection.ro</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>B-dul Magheru 28-30</li>
+            <li>Sector 1, BUCUREŞTI</li>
+            <li><strong>Phone:&nbsp;</strong>40 21 252 5599</li>
+            <li><strong>Fax:&nbsp;</strong>40 21 252 5757</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:anspdcp@dataprotection.ro">anspdcp@dataprotection.ro</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Slovakia">
+        <div class="row">
+          <h2>Slovakia</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Office for Personal Data Protection of the Slovak Republic</li>
+            <li><a href="http://www.dataprotection.gov.sk/" target="_blank">www.dataprotection.gov.sk</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Hraničná 12</li>
+            <li>820 07 Bratislava 27</li>
+            <li><strong>Phone:&nbsp;</strong>421 2 32 31 32 14</li>
+            <li><strong>Fax:&nbsp;</strong>421 2 32 31 32 34</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:statny.dozor@pdp.gov.sk">statny.dozor@pdp.gov.sk</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Slovenia">
+        <div class="row">
+          <h2>Slovenia</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Information Commissioner</li>
+            <li><a href="https://www.ip-rs.si/" target="_blank">www.ip-rs.si</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Ms Mojca Prelesnik</li>
+            <li>Zaloška 59 1000 Ljubljana</li>
+            <li><strong>Phone:&nbsp;</strong>386 1 230 9730</li>
+            <li><strong>Fax:&nbsp;</strong>386 1 230 9778</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:gp.ip@ip-rs.si">gp.ip@ip-rs.si</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Spain">
+        <div class="row">
+          <h2>Spain</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Agencia de Protección de Datos</li>
+            <li><a href="https://www.agpd.es/" target="_blank">www.agpd.es</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>C/Jorge Juan, 6</li>
+            <li>28001 Madrid</li>
+            <li><strong>Phone:&nbsp;</strong>34 91399 6200</li>
+            <li><strong>Fax:&nbsp;</strong>34 91455 5699</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:internacional@agpd.es">internacional@agpd.es</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-Sweden">
+        <div class="row">
+          <h2>Sweden</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>Datainspektionen</li>
+            <li><a href="http://www.datainspektionen.se/" target="_blank">www.datainspektionen.se</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Drottninggatan 29 5th Floor</li>
+            <li>Box 8114 104 20 Stockholm</li>
+            <li><strong>Phone:&nbsp;</strong>46 8 657 6100</li>
+            <li><strong>Fax:&nbsp;</strong>46 8 652 8652</li>
+            <li><strong>Email:&nbsp;</strong><a href="mailto:datainspektionen@datainspektionen.se">datainspektionen@datainspektionen.se</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="country col" id="eu-United-Kingdom">
+        <div class="row">
+          <h2>United Kingdom</h2>
+        </div>
+        <div class="row">
+          <ul class="list-unstyled">
+            <li>The Information Commissioner’s Office</li>
+            <li><a href="https://ico.org.uk" target="_blank">ico.org.uk</a></li>
+            </ul>
+          </div>
+          <div class="row">
+            <ul class="list-unstyled">
+            <li><strong>Address:</strong></li>
+            <li>Water Lane, Wycliffe House</li>
+            <li>Wilmslow - Cheshire SK9 5AF</li>
+            <li><strong>Phone:&nbsp;</strong>44 1625 545 745</li>
+            <!--<li><strong>Fax:&nbsp;</strong>text</li>-->
+            <li><strong>Email:&nbsp;</strong><a href="mailto:international.team@ico.org.uk">international.team@ico.org.uk</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container my-5 text-center">
+  <div class="pt-5">
+    <h1 class="display-4">You still have a question?</h1>
+    <p class="lead text-muted">If you cannot find answer to your question in our FAQ, you can always contact us. We will answer to you shortly!</p>
+    <div class="mt-5">
+      <a class="btn btn-outline-secondary btn-lg mr-2" href="contact">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="py-5"></div>
+
+<div id="footerHTML"></div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!-- Optional JavaScript -->
+<script src="jq-main.js"></script>
+</body>
+</html>
